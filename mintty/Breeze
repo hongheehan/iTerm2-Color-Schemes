@@ -1,0 +1,23 @@
+# theme: Breeze
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#eff0f1
+BackgroundColour=#31363b
+BoldBlack=#31363b
+BoldBlue=#1d99f3
+BoldCyan=#1abc9c
+BoldGreen=#11d116
+BoldMagenta=#9b59b6
+BoldRed=#ed1515
+BoldWhite=#eff0f1
+BoldYellow=#f67400
+Black=#7f8c8d
+Blue=#3daee9
+Cyan=#16a085
+Green=#1cdc9a
+Magenta=#8e44ad
+Red=#c0392b
+White=#fcfcfc
+Yellow=#fdbc4b
+Yellow=#eff0f1
+CursorColour=#eff0f1

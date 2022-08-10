@@ -1,0 +1,23 @@
+# theme: Mariana
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d8dee9
+BackgroundColour=#343d46
+BoldBlack=#000000
+BoldBlue=#6699cc
+BoldCyan=#5fb4b4
+BoldGreen=#99c794
+BoldMagenta=#c695c6
+BoldRed=#ec5f66
+BoldWhite=#f7f7f7
+BoldYellow=#f9ae58
+Black=#333333
+Blue=#85add6
+Cyan=#82c4c4
+Green=#acd1a8
+Magenta=#d8b6d8
+Red=#f97b58
+White=#ffffff
+Yellow=#fac761
+Yellow=#4e5a65
+CursorColour=#fcbb6a

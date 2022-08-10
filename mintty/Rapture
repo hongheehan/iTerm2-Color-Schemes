@@ -1,0 +1,23 @@
+# theme: Rapture
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c0c9e5
+BackgroundColour=#111e2a
+BoldBlack=#000000
+BoldBlue=#6c9bf5
+BoldCyan=#64e0ff
+BoldGreen=#7afde1
+BoldMagenta=#ff4fa1
+BoldRed=#fc644d
+BoldWhite=#c0c9e5
+BoldYellow=#fff09b
+Black=#304b66
+Blue=#6c9bf5
+Cyan=#64e0ff
+Green=#7afde1
+Magenta=#ff4fa1
+Red=#fc644d
+White=#ffffff
+Yellow=#fff09b
+Yellow=#304b66
+CursorColour=#ffffff

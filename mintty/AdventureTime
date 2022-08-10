@@ -1,0 +1,23 @@
+# theme: AdventureTime
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f8dcc0
+BackgroundColour=#1f1d45
+BoldBlack=#050404
+BoldBlue=#0f4ac6
+BoldCyan=#70a598
+BoldGreen=#4ab118
+BoldMagenta=#665993
+BoldRed=#bd0013
+BoldWhite=#f8dcc0
+BoldYellow=#e7741e
+Black=#4e7cbf
+Blue=#1997c6
+Cyan=#c8faf4
+Green=#9eff6e
+Magenta=#9b5953
+Red=#fc5f5a
+White=#f6f5fb
+Yellow=#efc11a
+Yellow=#706b4e
+CursorColour=#efbf38

@@ -1,0 +1,23 @@
+# theme: Peppermint
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c8c8c8
+BackgroundColour=#000000
+BoldBlack=#353535
+BoldBlue=#449fd0
+BoldCyan=#65aaaf
+BoldGreen=#89d287
+BoldMagenta=#da62dc
+BoldRed=#e74669
+BoldWhite=#b4b4b4
+BoldYellow=#dab853
+Black=#535353
+Blue=#6fbce2
+Cyan=#96dcdb
+Green=#a3cca2
+Magenta=#e586e7
+Red=#e4859b
+White=#dfdfdf
+Yellow=#e1e487
+Yellow=#e6e6e6
+CursorColour=#bbbbbb

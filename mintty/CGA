@@ -1,0 +1,23 @@
+# theme: CGA
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#aaaaaa
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#0000aa
+BoldCyan=#00aaaa
+BoldGreen=#00aa00
+BoldMagenta=#aa00aa
+BoldRed=#aa0000
+BoldWhite=#aaaaaa
+BoldYellow=#aa5500
+Black=#555555
+Blue=#5555ff
+Cyan=#55ffff
+Green=#55ff55
+Magenta=#ff55ff
+Red=#ff5555
+White=#ffffff
+Yellow=#ffff55
+Yellow=#c1deff
+CursorColour=#b8b8b8

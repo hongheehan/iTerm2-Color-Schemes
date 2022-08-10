@@ -1,0 +1,23 @@
+# theme: Flatland
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b8dbef
+BackgroundColour=#1d1f21
+BoldBlack=#1d1d19
+BoldBlue=#5096be
+BoldCyan=#d63865
+BoldGreen=#9fd364
+BoldMagenta=#695abc
+BoldRed=#f18339
+BoldWhite=#ffffff
+BoldYellow=#f4ef6d
+Black=#1d1d19
+Blue=#61b9d0
+Cyan=#d63865
+Green=#a7d42c
+Magenta=#695abc
+Red=#d22a24
+White=#ffffff
+Yellow=#ff8949
+Yellow=#2b2a24
+CursorColour=#708284

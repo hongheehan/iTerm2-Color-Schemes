@@ -1,0 +1,23 @@
+# theme: Square
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#acacab
+BackgroundColour=#1a1a1a
+BoldBlack=#050505
+BoldBlue=#a9cdeb
+BoldCyan=#c9caec
+BoldGreen=#b6377d
+BoldMagenta=#75507b
+BoldRed=#e9897c
+BoldWhite=#f2f2f2
+BoldYellow=#ecebbe
+Black=#141414
+Blue=#b6defb
+Cyan=#d7d9fc
+Green=#c3f786
+Magenta=#ad7fa8
+Red=#f99286
+White=#e2e2e2
+Yellow=#fcfbcc
+Yellow=#4d4d4d
+CursorColour=#fcfbcc

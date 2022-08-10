@@ -1,0 +1,23 @@
+# theme: UltraDark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#82aaff
+BoldCyan=#89ddff
+BoldGreen=#c3e88d
+BoldMagenta=#c792ea
+BoldRed=#f07178
+BoldWhite=#cccccc
+BoldYellow=#ffcb6b
+Black=#333333
+Blue=#b4ccff
+Cyan=#b8eaff
+Green=#dbf1ba
+Magenta=#ddbdf2
+Red=#f6a9ae
+White=#ffffff
+Yellow=#ffdfa6
+Yellow=#222222
+CursorColour=#fefefe

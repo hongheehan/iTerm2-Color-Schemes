@@ -1,0 +1,23 @@
+# theme: Batman
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#6f6f6f
+BackgroundColour=#1b1d1e
+BoldBlack=#1b1d1e
+BoldBlue=#737174
+BoldCyan=#62605f
+BoldGreen=#c8be46
+BoldMagenta=#747271
+BoldRed=#e6dc44
+BoldWhite=#c6c5bf
+BoldYellow=#f4fd22
+Black=#505354
+Blue=#919495
+Cyan=#a3a3a6
+Green=#fff27d
+Magenta=#9a9a9d
+Red=#fff78e
+White=#dadbd6
+Yellow=#feed6c
+Yellow=#4d504c
+CursorColour=#fcef0c

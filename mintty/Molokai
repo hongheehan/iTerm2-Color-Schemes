@@ -1,0 +1,23 @@
+# theme: Molokai
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#bbbbbb
+BackgroundColour=#121212
+BoldBlack=#121212
+BoldBlue=#1080d0
+BoldCyan=#43a8d0
+BoldGreen=#98e123
+BoldMagenta=#8700ff
+BoldRed=#fa2573
+BoldWhite=#bbbbbb
+BoldYellow=#dfd460
+Black=#555555
+Blue=#00afff
+Cyan=#51ceff
+Green=#b1e05f
+Magenta=#af87ff
+Red=#f6669d
+White=#ffffff
+Yellow=#fff26d
+Yellow=#b5d5ff
+CursorColour=#bbbbbb

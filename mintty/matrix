@@ -1,0 +1,23 @@
+# theme: matrix
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#426644
+BackgroundColour=#0f191c
+BoldBlack=#0f191c
+BoldBlue=#3f5242
+BoldCyan=#50b45a
+BoldGreen=#82d967
+BoldMagenta=#409931
+BoldRed=#23755a
+BoldWhite=#507350
+BoldYellow=#ffd700
+Black=#688060
+Blue=#4f7e7e
+Cyan=#c1ff8a
+Green=#90d762
+Magenta=#11ff25
+Red=#2fc079
+White=#678c61
+Yellow=#faff00
+Yellow=#18282e
+CursorColour=#384545

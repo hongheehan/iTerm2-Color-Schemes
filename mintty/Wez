@@ -1,0 +1,23 @@
+# theme: Wez
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b3b3b3
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#5555cc
+BoldCyan=#7acaca
+BoldGreen=#55cc55
+BoldMagenta=#cc55cc
+BoldRed=#cc5555
+BoldWhite=#cccccc
+BoldYellow=#cdcd55
+Black=#555555
+Blue=#5555ff
+Cyan=#55ffff
+Green=#55ff55
+Magenta=#ff55ff
+Red=#ff5555
+White=#ffffff
+Yellow=#ffff55
+Yellow=#4d52f8
+CursorColour=#53ae71

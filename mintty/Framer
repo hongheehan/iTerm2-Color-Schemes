@@ -1,0 +1,23 @@
+# theme: Framer
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#777777
+BackgroundColour=#111111
+BoldBlack=#141414
+BoldBlue=#00aaff
+BoldCyan=#88ddff
+BoldGreen=#98ec65
+BoldMagenta=#aa88ff
+BoldRed=#ff5555
+BoldWhite=#cccccc
+BoldYellow=#ffcc33
+Black=#414141
+Blue=#33bbff
+Cyan=#bbecff
+Green=#b6f292
+Magenta=#cebbff
+Red=#ff8888
+White=#ffffff
+Yellow=#ffd966
+Yellow=#666666
+CursorColour=#fcdc08

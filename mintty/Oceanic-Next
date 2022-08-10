@@ -1,0 +1,23 @@
+# theme: Oceanic-Next
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b3b8c3
+BackgroundColour=#121b21
+BoldBlack=#121c21
+BoldBlue=#5486c0
+BoldCyan=#50a5a4
+BoldGreen=#89bd82
+BoldMagenta=#b77eb8
+BoldRed=#e44754
+BoldWhite=#ffffff
+BoldYellow=#f7bd51
+Black=#52606b
+Blue=#5486c0
+Cyan=#50a5a4
+Green=#89bd82
+Magenta=#b77eb8
+Red=#e44754
+White=#ffffff
+Yellow=#f7bd51
+Yellow=#3e4953
+CursorColour=#b3b8c3

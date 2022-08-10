@@ -1,0 +1,23 @@
+# theme: deep
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#cdcdcd
+BackgroundColour=#090909
+BoldBlack=#000000
+BoldBlue=#5665ff
+BoldCyan=#50d2da
+BoldGreen=#1cd915
+BoldMagenta=#b052da
+BoldRed=#d70005
+BoldWhite=#e0e0e0
+BoldYellow=#d9bd26
+Black=#535353
+Blue=#9fa9ff
+Cyan=#8df9ff
+Green=#22ff18
+Magenta=#e09aff
+Red=#fb0007
+White=#ffffff
+Yellow=#fedc2b
+Yellow=#780002
+CursorColour=#d0d0d0

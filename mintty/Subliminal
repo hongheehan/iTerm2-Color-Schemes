@@ -1,0 +1,23 @@
+# theme: Subliminal
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d4d4d4
+BackgroundColour=#282c35
+BoldBlack=#7f7f7f
+BoldBlue=#6699cc
+BoldCyan=#5fb3b3
+BoldGreen=#a9cfa4
+BoldMagenta=#f1a5ab
+BoldRed=#e15a60
+BoldWhite=#d4d4d4
+BoldYellow=#ffe2a9
+Black=#7f7f7f
+Blue=#6699cc
+Cyan=#5fb3b3
+Green=#a9cfa4
+Magenta=#f1a5ab
+Red=#e15a60
+White=#d4d4d4
+Yellow=#ffe2a9
+Yellow=#484e5b
+CursorColour=#c7c7c7

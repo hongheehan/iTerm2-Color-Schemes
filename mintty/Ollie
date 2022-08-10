@@ -1,0 +1,23 @@
+# theme: Ollie
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#8a8dae
+BackgroundColour=#222125
+BoldBlack=#000000
+BoldBlue=#2d57ac
+BoldCyan=#1fa6ac
+BoldGreen=#31ac61
+BoldMagenta=#b08528
+BoldRed=#ac2e31
+BoldWhite=#8a8eac
+BoldYellow=#ac4300
+Black=#5b3725
+Blue=#4488ff
+Cyan=#1ffaff
+Green=#3bff99
+Magenta=#ffc21d
+Red=#ff3d48
+White=#5b6ea7
+Yellow=#ff5e1e
+Yellow=#1e3a66
+CursorColour=#5b6ea7

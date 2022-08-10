@@ -1,0 +1,23 @@
+# theme: ToyChest
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#31d07b
+BackgroundColour=#24364b
+BoldBlack=#2c3f58
+BoldBlue=#325d96
+BoldCyan=#35a08f
+BoldGreen=#1a9172
+BoldMagenta=#8a5edc
+BoldRed=#be2d26
+BoldWhite=#23d183
+BoldYellow=#db8e27
+Black=#336889
+Blue=#34a6da
+Cyan=#42c3ae
+Green=#31d07b
+Magenta=#ae6bdc
+Red=#dd5944
+White=#d5d5d5
+Yellow=#e7d84b
+Yellow=#5f217a
+CursorColour=#d5d5d5

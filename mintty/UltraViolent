@@ -1,0 +1,23 @@
+# theme: UltraViolent
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c1c1c1
+BackgroundColour=#242728
+BoldBlack=#242728
+BoldBlue=#47e0fb
+BoldCyan=#0effbb
+BoldGreen=#b6ff00
+BoldMagenta=#d731ff
+BoldRed=#ff0090
+BoldWhite=#e1e1e1
+BoldYellow=#fff727
+Black=#636667
+Blue=#7fecff
+Cyan=#69fcd3
+Green=#deff8c
+Magenta=#e681ff
+Red=#fb58b4
+White=#f9f9f5
+Yellow=#ebe087
+Yellow=#574c49
+CursorColour=#c1c1c1

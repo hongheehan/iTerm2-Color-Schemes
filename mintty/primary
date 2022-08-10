@@ -1,0 +1,23 @@
+# theme: primary
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#000000
+BackgroundColour=#ffffff
+BoldBlack=#000000
+BoldBlue=#4285f4
+BoldCyan=#4285f4
+BoldGreen=#0f9d58
+BoldMagenta=#db4437
+BoldRed=#db4437
+BoldWhite=#ffffff
+BoldYellow=#f4b400
+Black=#000000
+Blue=#4285f4
+Cyan=#0f9d58
+Green=#0f9d58
+Magenta=#4285f4
+Red=#db4437
+White=#ffffff
+Yellow=#f4b400
+Yellow=#656565
+CursorColour=#000000

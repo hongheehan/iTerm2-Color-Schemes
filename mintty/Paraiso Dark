@@ -1,0 +1,23 @@
+# theme: Paraiso Dark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#a39e9b
+BackgroundColour=#2f1e2e
+BoldBlack=#2f1e2e
+BoldBlue=#06b6ef
+BoldCyan=#5bc4bf
+BoldGreen=#48b685
+BoldMagenta=#815ba4
+BoldRed=#ef6155
+BoldWhite=#a39e9b
+BoldYellow=#fec418
+Black=#776e71
+Blue=#06b6ef
+Cyan=#5bc4bf
+Green=#48b685
+Magenta=#815ba4
+Red=#ef6155
+White=#e7e9db
+Yellow=#fec418
+Yellow=#4f424c
+CursorColour=#a39e9b

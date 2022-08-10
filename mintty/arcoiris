@@ -1,0 +1,23 @@
+# theme: arcoiris
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#eee4d9
+BackgroundColour=#201f1e
+BoldBlack=#333333
+BoldBlue=#518bfc
+BoldCyan=#63fad5
+BoldGreen=#12c258
+BoldMagenta=#e37bd9
+BoldRed=#da2700
+BoldWhite=#bab2b2
+BoldYellow=#ffc656
+Black=#777777
+Blue=#b3e8f3
+Cyan=#bcffc7
+Green=#e3f6aa
+Magenta=#cbbaf9
+Red=#ffb9b9
+White=#efefef
+Yellow=#ffddaa
+Yellow=#25524a
+CursorColour=#7a1c1c

@@ -1,0 +1,23 @@
+# theme: Grass
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#fff0a5
+BackgroundColour=#13773d
+BoldBlack=#000000
+BoldBlue=#0000a3
+BoldCyan=#00bbbb
+BoldGreen=#00bb00
+BoldMagenta=#950062
+BoldRed=#bb0000
+BoldWhite=#bbbbbb
+BoldYellow=#e7b000
+Black=#555555
+Blue=#0000bb
+Cyan=#55ffff
+Green=#00bb00
+Magenta=#ff55ff
+Red=#bb0000
+White=#ffffff
+Yellow=#e7b000
+Yellow=#b64926
+CursorColour=#8c2800

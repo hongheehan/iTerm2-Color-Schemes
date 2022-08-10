@@ -1,0 +1,23 @@
+# theme: Sublette
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ccced0
+BackgroundColour=#202535
+BoldBlack=#253045
+BoldBlue=#5588ff
+BoldCyan=#44eeee
+BoldGreen=#55ee77
+BoldMagenta=#ff77cc
+BoldRed=#ee5577
+BoldWhite=#f5f5da
+BoldYellow=#ffdd88
+Black=#405570
+Blue=#77bbff
+Cyan=#55ffbb
+Green=#99ee77
+Magenta=#aa88ff
+Red=#ee6655
+White=#ffffee
+Yellow=#ffff77
+Yellow=#ccced0
+CursorColour=#ccced0

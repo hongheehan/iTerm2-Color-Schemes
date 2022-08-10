@@ -1,0 +1,23 @@
+# theme: Solarized Dark - Patched
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#708284
+BackgroundColour=#001e27
+BoldBlack=#002831
+BoldBlue=#2176c7
+BoldCyan=#259286
+BoldGreen=#738a05
+BoldMagenta=#c61c6f
+BoldRed=#d11c24
+BoldWhite=#eae3cb
+BoldYellow=#a57706
+Black=#475b62
+Blue=#708284
+Cyan=#819090
+Green=#475b62
+Magenta=#5956ba
+Red=#bd3613
+White=#fcf4dc
+Yellow=#536870
+Yellow=#002831
+CursorColour=#708284

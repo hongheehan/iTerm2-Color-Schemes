@@ -1,0 +1,23 @@
+# theme: Snazzy
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ebece6
+BackgroundColour=#1e1f29
+BoldBlack=#000000
+BoldBlue=#49baff
+BoldCyan=#8be9fe
+BoldGreen=#50fb7c
+BoldMagenta=#fc4cb4
+BoldRed=#fc4346
+BoldWhite=#ededec
+BoldYellow=#f0fb8c
+Black=#555555
+Blue=#49baff
+Cyan=#8be9fe
+Green=#50fb7c
+Magenta=#fc4cb4
+Red=#fc4346
+White=#ededec
+Yellow=#f0fb8c
+Yellow=#81aec6
+CursorColour=#e4e4e4

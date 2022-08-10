@@ -1,0 +1,23 @@
+# theme: Spacedust
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ecf0c1
+BackgroundColour=#0a1e24
+BoldBlack=#6e5346
+BoldBlue=#0f548b
+BoldCyan=#06afc7
+BoldGreen=#5cab96
+BoldMagenta=#e35b00
+BoldRed=#e35b00
+BoldWhite=#f0f1ce
+BoldYellow=#e3cd7b
+Black=#684c31
+Blue=#67a0ce
+Cyan=#83a7b4
+Green=#aecab8
+Magenta=#ff8a3a
+Red=#ff8a3a
+White=#fefff1
+Yellow=#ffc878
+Yellow=#0a385c
+CursorColour=#708284

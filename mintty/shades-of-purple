@@ -1,0 +1,23 @@
+# theme: shades-of-purple
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#1e1d40
+BoldBlack=#000000
+BoldBlue=#6943ff
+BoldCyan=#00c5c7
+BoldGreen=#3ad900
+BoldMagenta=#ff2c70
+BoldRed=#d90429
+BoldWhite=#c7c7c7
+BoldYellow=#ffe700
+Black=#686868
+Blue=#6871ff
+Cyan=#79e8fb
+Green=#43d426
+Magenta=#ff77ff
+Red=#f92a1c
+White=#ffffff
+Yellow=#f1d000
+Yellow=#b362ff
+CursorColour=#fad000

@@ -1,0 +1,23 @@
+# theme: Tomorrow Night Bright
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#eaeaea
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#7aa6da
+BoldCyan=#70c0b1
+BoldGreen=#b9ca4a
+BoldMagenta=#c397d8
+BoldRed=#d54e53
+BoldWhite=#ffffff
+BoldYellow=#e7c547
+Black=#000000
+Blue=#7aa6da
+Cyan=#70c0b1
+Green=#b9ca4a
+Magenta=#c397d8
+Red=#d54e53
+White=#ffffff
+Yellow=#e7c547
+Yellow=#424242
+CursorColour=#eaeaea

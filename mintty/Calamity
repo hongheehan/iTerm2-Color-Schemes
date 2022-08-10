@@ -1,0 +1,23 @@
+# theme: Calamity
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d5ced9
+BackgroundColour=#2f2833
+BoldBlack=#2f2833
+BoldBlue=#3b79c7
+BoldCyan=#74d3de
+BoldGreen=#a5f69c
+BoldMagenta=#f92672
+BoldRed=#fc644d
+BoldWhite=#d5ced9
+BoldYellow=#e9d7a5
+Black=#7e6c88
+Blue=#3b79c7
+Cyan=#74d3de
+Green=#a5f69c
+Magenta=#f92672
+Red=#fc644d
+White=#ffffff
+Yellow=#e9d7a5
+Yellow=#7e6c88
+CursorColour=#d5ced9

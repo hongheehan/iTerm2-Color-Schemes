@@ -1,0 +1,23 @@
+# theme: Cyberdyne
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#00ff92
+BackgroundColour=#151144
+BoldBlack=#080808
+BoldBlue=#0071cf
+BoldCyan=#6bffdd
+BoldGreen=#00c172
+BoldMagenta=#ff90fe
+BoldRed=#ff8373
+BoldWhite=#f1f1f1
+BoldYellow=#d2a700
+Black=#2e2e2e
+Blue=#c2e3ff
+Cyan=#e6e7fe
+Green=#d6fcba
+Magenta=#ffb2fe
+Red=#ffc4be
+White=#ffffff
+Yellow=#fffed5
+Yellow=#454d96
+CursorColour=#00ff9c

@@ -1,0 +1,23 @@
+# theme: VibrantInk
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#000000
+BoldBlack=#878787
+BoldBlue=#44b4cc
+BoldCyan=#44b4cc
+BoldGreen=#ccff04
+BoldMagenta=#9933cc
+BoldRed=#ff6600
+BoldWhite=#f5f5f5
+BoldYellow=#ffcc00
+Black=#555555
+Blue=#0000ff
+Cyan=#00ffff
+Green=#00ff00
+Magenta=#ff00ff
+Red=#ff0000
+White=#e5e5e5
+Yellow=#ffff00
+Yellow=#b5d5ff
+CursorColour=#ffffff

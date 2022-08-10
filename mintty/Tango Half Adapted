@@ -1,0 +1,23 @@
+# theme: Tango Half Adapted
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#000000
+BackgroundColour=#ffffff
+BoldBlack=#000000
+BoldBlue=#008ef6
+BoldCyan=#00bdc3
+BoldGreen=#4cc300
+BoldMagenta=#a96cb3
+BoldRed=#ff0000
+BoldWhite=#e0e5db
+BoldYellow=#e2c000
+Black=#797d76
+Blue=#76bfff
+Cyan=#00f6fa
+Green=#8af600
+Magenta=#d898d1
+Red=#ff0013
+White=#f4f4f2
+Yellow=#ffec00
+Yellow=#c1deff
+CursorColour=#000000

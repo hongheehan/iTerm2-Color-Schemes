@@ -1,0 +1,23 @@
+# theme: Purple Rain
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#fffbf6
+BackgroundColour=#21084a
+BoldBlack=#000000
+BoldBlue=#00a2fa
+BoldCyan=#00deef
+BoldGreen=#9be205
+BoldMagenta=#815bb5
+BoldRed=#ff260e
+BoldWhite=#ffffff
+BoldYellow=#ffc400
+Black=#565656
+Blue=#00a6ff
+Cyan=#74fdf3
+Green=#b8e36e
+Magenta=#ac7bf0
+Red=#ff4250
+White=#ffffff
+Yellow=#ffd852
+Yellow=#287691
+CursorColour=#ff271d

@@ -1,0 +1,23 @@
+# theme: Spiderman
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e3e3e3
+BackgroundColour=#1b1d1e
+BoldBlack=#1b1d1e
+BoldBlue=#2c3fff
+BoldCyan=#3256ff
+BoldGreen=#e22928
+BoldMagenta=#2435db
+BoldRed=#e60813
+BoldWhite=#fffef6
+BoldYellow=#e24756
+Black=#505354
+Blue=#1d50ff
+Cyan=#6184ff
+Green=#ff3338
+Magenta=#747cff
+Red=#ff0325
+White=#fffff9
+Yellow=#fe3a35
+Yellow=#070e50
+CursorColour=#2c3fff

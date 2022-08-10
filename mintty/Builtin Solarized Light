@@ -1,0 +1,23 @@
+# theme: Builtin Solarized Light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#657b83
+BackgroundColour=#fdf6e3
+BoldBlack=#073642
+BoldBlue=#268bd2
+BoldCyan=#2aa198
+BoldGreen=#859900
+BoldMagenta=#d33682
+BoldRed=#dc322f
+BoldWhite=#eee8d5
+BoldYellow=#b58900
+Black=#002b36
+Blue=#839496
+Cyan=#93a1a1
+Green=#586e75
+Magenta=#6c71c4
+Red=#cb4b16
+White=#fdf6e3
+Yellow=#657b83
+Yellow=#eee8d5
+CursorColour=#657b83

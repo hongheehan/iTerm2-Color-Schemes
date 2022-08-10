@@ -1,0 +1,23 @@
+# theme: Tomorrow Night
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c5c8c6
+BackgroundColour=#1d1f21
+BoldBlack=#000000
+BoldBlue=#81a2be
+BoldCyan=#8abeb7
+BoldGreen=#b5bd68
+BoldMagenta=#b294bb
+BoldRed=#cc6666
+BoldWhite=#ffffff
+BoldYellow=#f0c674
+Black=#000000
+Blue=#81a2be
+Cyan=#8abeb7
+Green=#b5bd68
+Magenta=#b294bb
+Red=#cc6666
+White=#ffffff
+Yellow=#f0c674
+Yellow=#373b41
+CursorColour=#c5c8c6

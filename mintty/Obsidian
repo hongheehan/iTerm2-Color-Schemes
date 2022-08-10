@@ -1,0 +1,23 @@
+# theme: Obsidian
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#cdcdcd
+BackgroundColour=#283033
+BoldBlack=#000000
+BoldBlue=#3a9bdb
+BoldCyan=#00bbbb
+BoldGreen=#00bb00
+BoldMagenta=#bb00bb
+BoldRed=#a60001
+BoldWhite=#bbbbbb
+BoldYellow=#fecd22
+Black=#555555
+Blue=#a1d7ff
+Cyan=#55ffff
+Green=#93c863
+Magenta=#ff55ff
+Red=#ff0003
+White=#ffffff
+Yellow=#fef874
+Yellow=#3e4c4f
+CursorColour=#c0cad0

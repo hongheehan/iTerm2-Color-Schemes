@@ -1,0 +1,23 @@
+# theme: Neopolitan
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#271f19
+BoldBlack=#000000
+BoldBlue=#253b76
+BoldCyan=#8da6ce
+BoldGreen=#61ce3c
+BoldMagenta=#ff0080
+BoldRed=#800000
+BoldWhite=#f8f8f8
+BoldYellow=#fbde2d
+Black=#000000
+Blue=#253b76
+Cyan=#8da6ce
+Green=#61ce3c
+Magenta=#ff0080
+Red=#800000
+White=#f8f8f8
+Yellow=#fbde2d
+Yellow=#253b76
+CursorColour=#ffffff

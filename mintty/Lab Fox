@@ -1,0 +1,23 @@
+# theme: Lab Fox
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#2e2e2e
+BoldBlack=#2e2e2e
+BoldBlue=#db3b21
+BoldCyan=#6e49cb
+BoldGreen=#3eb383
+BoldMagenta=#380d75
+BoldRed=#fc6d26
+BoldWhite=#ffffff
+BoldYellow=#fca121
+Black=#464646
+Blue=#db501f
+Cyan=#7d53e7
+Green=#53eaa8
+Magenta=#441090
+Red=#ff6517
+White=#ffffff
+Yellow=#fca013
+Yellow=#cb392e
+CursorColour=#7f7f7f

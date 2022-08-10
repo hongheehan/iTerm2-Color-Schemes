@@ -1,0 +1,23 @@
+# theme: Blazer
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d9e6f2
+BackgroundColour=#0d1926
+BoldBlack=#000000
+BoldBlue=#7a7ab8
+BoldCyan=#7ab8b8
+BoldGreen=#7ab87a
+BoldMagenta=#b87ab8
+BoldRed=#b87a7a
+BoldWhite=#d9d9d9
+BoldYellow=#b8b87a
+Black=#262626
+Blue=#bdbddb
+Cyan=#bddbdb
+Green=#bddbbd
+Magenta=#dbbddb
+Red=#dbbdbd
+White=#ffffff
+Yellow=#dbdbbd
+Yellow=#c1ddff
+CursorColour=#d9e6f2

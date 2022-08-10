@@ -1,0 +1,23 @@
+# theme: WildCherry
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dafaff
+BackgroundColour=#1f1726
+BoldBlack=#000507
+BoldBlue=#883cdc
+BoldCyan=#c1b8b7
+BoldGreen=#2ab250
+BoldMagenta=#ececec
+BoldRed=#d94085
+BoldWhite=#fff8de
+BoldYellow=#ffd16f
+Black=#009cc9
+Blue=#308cba
+Cyan=#ff919d
+Green=#f4dca5
+Magenta=#ae636b
+Red=#da6bac
+White=#e4838d
+Yellow=#eac066
+Yellow=#002831
+CursorColour=#dd00ff

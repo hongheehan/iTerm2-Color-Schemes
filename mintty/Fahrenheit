@@ -1,0 +1,23 @@
+# theme: Fahrenheit
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffce
+BackgroundColour=#000000
+BoldBlack=#1d1d1d
+BoldBlue=#720102
+BoldCyan=#979797
+BoldGreen=#9e744d
+BoldMagenta=#734c4d
+BoldRed=#cda074
+BoldWhite=#ffffce
+BoldYellow=#fecf75
+Black=#000000
+Blue=#cb4a05
+Cyan=#fed04d
+Green=#cc734d
+Magenta=#4e739f
+Red=#fecea0
+White=#ffffff
+Yellow=#fd9f4d
+Yellow=#4e739f
+CursorColour=#bbbbbb

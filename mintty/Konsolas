@@ -1,0 +1,23 @@
+# theme: Konsolas
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c8c1c1
+BackgroundColour=#060606
+BoldBlack=#000000
+BoldBlue=#2323a5
+BoldCyan=#42b0c8
+BoldGreen=#18b218
+BoldMagenta=#ad1edc
+BoldRed=#aa1717
+BoldWhite=#c8c1c1
+BoldYellow=#ebae1f
+Black=#7b716e
+Blue=#4b4bff
+Cyan=#69ffff
+Green=#5fff5f
+Magenta=#ff54ff
+Red=#ff4141
+White=#ffffff
+Yellow=#ffff55
+Yellow=#060606
+CursorColour=#c8c1c1

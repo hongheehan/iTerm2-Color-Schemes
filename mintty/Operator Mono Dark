@@ -1,0 +1,23 @@
+# theme: Operator Mono Dark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c3cac2
+BackgroundColour=#191919
+BoldBlack=#5a5a5a
+BoldBlue=#4387cf
+BoldCyan=#72d5c6
+BoldGreen=#4d7b3a
+BoldMagenta=#b86cb4
+BoldRed=#ca372d
+BoldWhite=#ced4cd
+BoldYellow=#d4d697
+Black=#9a9b99
+Blue=#89d3f6
+Cyan=#82eada
+Green=#83d0a2
+Magenta=#ff2c7a
+Red=#c37d62
+White=#fdfdf6
+Yellow=#fdfdc5
+Yellow=#19273b
+CursorColour=#fcdc08

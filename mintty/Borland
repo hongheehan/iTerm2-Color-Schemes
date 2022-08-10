@@ -1,0 +1,23 @@
+# theme: Borland
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffff4e
+BackgroundColour=#0000a4
+BoldBlack=#4f4f4f
+BoldBlue=#96cbfe
+BoldCyan=#c6c5fe
+BoldGreen=#a8ff60
+BoldMagenta=#ff73fd
+BoldRed=#ff6c60
+BoldWhite=#eeeeee
+BoldYellow=#ffffb6
+Black=#7c7c7c
+Blue=#b5dcff
+Cyan=#dfdffe
+Green=#ceffac
+Magenta=#ff9cfe
+Red=#ffb6b0
+White=#ffffff
+Yellow=#ffffcc
+Yellow=#a4a4a4
+CursorColour=#ffa560

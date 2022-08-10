@@ -1,0 +1,23 @@
+# theme: BlueDolphin
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c5f2ff
+BackgroundColour=#006984
+BoldBlack=#292d3e
+BoldBlue=#82aaff
+BoldCyan=#89ebff
+BoldGreen=#b4e88d
+BoldMagenta=#e9c1ff
+BoldRed=#ff8288
+BoldWhite=#d0d0d0
+BoldYellow=#f4d69f
+Black=#434758
+Blue=#9cc4ff
+Cyan=#a3f7ff
+Green=#ddffa7
+Magenta=#ddb0f6
+Red=#ff8b92
+White=#ffffff
+Yellow=#ffe585
+Yellow=#2baeca
+CursorColour=#ffcc00

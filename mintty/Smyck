@@ -1,0 +1,23 @@
+# theme: Smyck
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f7f7f7
+BackgroundColour=#1b1b1b
+BoldBlack=#000000
+BoldBlue=#62a3c4
+BoldCyan=#207383
+BoldGreen=#7da900
+BoldMagenta=#ba8acc
+BoldRed=#b84131
+BoldWhite=#a1a1a1
+BoldYellow=#c4a500
+Black=#7a7a7a
+Blue=#8dcff0
+Cyan=#6ad9cf
+Green=#c4f137
+Magenta=#f79aff
+Red=#d6837c
+White=#f7f7f7
+Yellow=#fee14d
+Yellow=#207483
+CursorColour=#bbbbbb

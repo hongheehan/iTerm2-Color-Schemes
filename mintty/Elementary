@@ -1,0 +1,23 @@
+# theme: Elementary
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#efefef
+BackgroundColour=#181818
+BoldBlack=#242424
+BoldBlue=#063b8c
+BoldCyan=#2595e1
+BoldGreen=#5aa513
+BoldMagenta=#e40038
+BoldRed=#d71c15
+BoldWhite=#efefef
+BoldYellow=#fdb40c
+Black=#4b4b4b
+Blue=#0955ff
+Cyan=#3ea8fc
+Green=#6bc219
+Magenta=#fb0050
+Red=#fc1c18
+White=#8c00ec
+Yellow=#fec80e
+Yellow=#b5d5ff
+CursorColour=#bbbbbb

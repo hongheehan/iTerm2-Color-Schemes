@@ -1,0 +1,23 @@
+# theme: Builtin Tango Light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#000000
+BackgroundColour=#ffffff
+BoldBlack=#000000
+BoldBlue=#3465a4
+BoldCyan=#06989a
+BoldGreen=#4e9a06
+BoldMagenta=#75507b
+BoldRed=#cc0000
+BoldWhite=#d3d7cf
+BoldYellow=#c4a000
+Black=#555753
+Blue=#729fcf
+Cyan=#34e2e2
+Green=#8ae234
+Magenta=#ad7fa8
+Red=#ef2929
+White=#eeeeec
+Yellow=#fce94f
+Yellow=#b5d5ff
+CursorColour=#000000

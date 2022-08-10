@@ -1,0 +1,23 @@
+# theme: Lavandula
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#736e7d
+BackgroundColour=#050014
+BoldBlack=#230046
+BoldBlue=#4f4a7f
+BoldCyan=#58777f
+BoldGreen=#337e6f
+BoldMagenta=#5a3f7f
+BoldRed=#7d1625
+BoldWhite=#736e7d
+BoldYellow=#7f6f49
+Black=#372d46
+Blue=#8e87e0
+Cyan=#9ad4e0
+Green=#52e0c4
+Magenta=#a776e0
+Red=#e05167
+White=#8c91fa
+Yellow=#e0c386
+Yellow=#37323c
+CursorColour=#8c91fa

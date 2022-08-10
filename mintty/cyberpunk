@@ -1,0 +1,23 @@
+# theme: cyberpunk
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e5e5e5
+BackgroundColour=#332a57
+BoldBlack=#000000
+BoldBlue=#00bfff
+BoldCyan=#86cbfe
+BoldGreen=#00fbac
+BoldMagenta=#df95ff
+BoldRed=#ff7092
+BoldWhite=#ffffff
+BoldYellow=#fffa6a
+Black=#000000
+Blue=#1bccfd
+Cyan=#99d6fc
+Green=#21f6bc
+Magenta=#e6aefe
+Red=#ff8aa4
+White=#ffffff
+Yellow=#fff787
+Yellow=#c1deff
+CursorColour=#21f6bc

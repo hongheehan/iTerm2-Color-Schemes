@@ -1,0 +1,23 @@
+# theme: Pro Light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#191919
+BackgroundColour=#ffffff
+BoldBlack=#000000
+BoldBlue=#3b75ff
+BoldCyan=#4ed2de
+BoldGreen=#50d148
+BoldMagenta=#ed66e8
+BoldRed=#e5492b
+BoldWhite=#dcdcdc
+BoldYellow=#c6c440
+Black=#9f9f9f
+Blue=#0082ff
+Cyan=#61f7f8
+Green=#61ef57
+Magenta=#ff7eff
+Red=#ff6640
+White=#f2f2f2
+Yellow=#f2f156
+Yellow=#c1ddff
+CursorColour=#4d4d4d

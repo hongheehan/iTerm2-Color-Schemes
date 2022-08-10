@@ -1,0 +1,23 @@
+# theme: Brogrammer
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d6dbe5
+BackgroundColour=#131313
+BoldBlack=#1f1f1f
+BoldBlue=#2a84d2
+BoldCyan=#1081d6
+BoldGreen=#2dc55e
+BoldMagenta=#4e5ab7
+BoldRed=#f81118
+BoldWhite=#d6dbe5
+BoldYellow=#ecba0f
+Black=#d6dbe5
+Blue=#1081d6
+Cyan=#0f7ddb
+Green=#1dd361
+Magenta=#5350b9
+Red=#de352e
+White=#ffffff
+Yellow=#f3bd09
+Yellow=#1f1f1f
+CursorColour=#b9b9b9

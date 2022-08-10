@@ -1,0 +1,23 @@
+# theme: Violet Dark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#708284
+BackgroundColour=#1c1d1f
+BoldBlack=#56595c
+BoldBlue=#2e8bce
+BoldCyan=#32a198
+BoldGreen=#85981c
+BoldMagenta=#d13a82
+BoldRed=#c94c22
+BoldWhite=#c9c6bd
+BoldYellow=#b4881d
+Black=#45484b
+Blue=#2176c7
+Cyan=#259286
+Green=#738a04
+Magenta=#c61c6f
+Red=#bd3613
+White=#c9c6bd
+Yellow=#a57705
+Yellow=#595ab7
+CursorColour=#708284

@@ -1,0 +1,23 @@
+# theme: IC_Green_PPL
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e0f1dc
+BackgroundColour=#2c2c2c
+BoldBlack=#014401
+BoldBlue=#2ec3b9
+BoldCyan=#3ca078
+BoldGreen=#41a638
+BoldMagenta=#50a096
+BoldRed=#ff2736
+BoldWhite=#e6fef2
+BoldYellow=#76a831
+Black=#035c03
+Blue=#2efaeb
+Cyan=#3cfac8
+Green=#aefb86
+Magenta=#50fafa
+Red=#b4fa5c
+White=#e0f1dc
+Yellow=#dafa87
+Yellow=#116b41
+CursorColour=#47fa6b

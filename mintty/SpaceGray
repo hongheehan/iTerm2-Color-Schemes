@@ -1,0 +1,23 @@
+# theme: SpaceGray
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b3b8c3
+BackgroundColour=#20242d
+BoldBlack=#000000
+BoldBlue=#7d8fa4
+BoldCyan=#85a7a5
+BoldGreen=#87b379
+BoldMagenta=#a47996
+BoldRed=#b04b57
+BoldWhite=#b3b8c3
+BoldYellow=#e5c179
+Black=#000000
+Blue=#7d8fa4
+Cyan=#85a7a5
+Green=#87b379
+Magenta=#a47996
+Red=#b04b57
+White=#ffffff
+Yellow=#e5c179
+Yellow=#16181e
+CursorColour=#b3b8c3

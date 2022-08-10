@@ -1,0 +1,23 @@
+# theme: Kolorit
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#efecec
+BackgroundColour=#1d1a1e
+BoldBlack=#1d1a1e
+BoldBlue=#5db4ee
+BoldCyan=#57e9eb
+BoldGreen=#47d7a1
+BoldMagenta=#da6cda
+BoldRed=#ff5b82
+BoldWhite=#ededed
+BoldYellow=#e8e562
+Black=#1d1a1e
+Blue=#5db4ee
+Cyan=#57e9eb
+Green=#47d7a1
+Magenta=#da6cda
+Red=#ff5b82
+White=#ededed
+Yellow=#e8e562
+Yellow=#e1925c
+CursorColour=#c7c7c7

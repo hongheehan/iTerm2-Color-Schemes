@@ -1,0 +1,23 @@
+# theme: Alabaster
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#000000
+BackgroundColour=#f7f7f7
+BoldBlack=#000000
+BoldBlue=#325cc0
+BoldCyan=#0083b2
+BoldGreen=#448c27
+BoldMagenta=#7a3e9d
+BoldRed=#aa3731
+BoldWhite=#f7f7f7
+BoldYellow=#cb9000
+Black=#777777
+Blue=#007acc
+Cyan=#00aacb
+Green=#60cb00
+Magenta=#e64ce6
+Red=#f05050
+White=#f7f7f7
+Yellow=#ffbc5d
+Yellow=#bfdbfe
+CursorColour=#007acc

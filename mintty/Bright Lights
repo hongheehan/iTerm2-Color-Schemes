@@ -1,0 +1,23 @@
+# theme: Bright Lights
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b3c9d7
+BackgroundColour=#191919
+BoldBlack=#191919
+BoldBlue=#76d4ff
+BoldCyan=#6cbfb5
+BoldGreen=#b7e876
+BoldMagenta=#ba76e7
+BoldRed=#ff355b
+BoldWhite=#c2c8d7
+BoldYellow=#ffc251
+Black=#191919
+Blue=#76d5ff
+Cyan=#6cbfb5
+Green=#b7e876
+Magenta=#ba76e7
+Red=#ff355b
+White=#c2c8d7
+Yellow=#ffc251
+Yellow=#b3c9d7
+CursorColour=#f34b00

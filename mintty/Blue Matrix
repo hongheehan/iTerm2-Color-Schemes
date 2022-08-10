@@ -1,0 +1,23 @@
+# theme: Blue Matrix
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#00a2ff
+BackgroundColour=#101116
+BoldBlack=#101116
+BoldBlue=#00b0ff
+BoldCyan=#76c1ff
+BoldGreen=#00ff9c
+BoldMagenta=#d57bff
+BoldRed=#ff5680
+BoldWhite=#c7c7c7
+BoldYellow=#fffc58
+Black=#686868
+Blue=#6871ff
+Cyan=#60fdff
+Green=#5ffa68
+Magenta=#d682ec
+Red=#ff6e67
+White=#ffffff
+Yellow=#fffc67
+Yellow=#c1deff
+CursorColour=#76ff9f

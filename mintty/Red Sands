@@ -1,0 +1,23 @@
+# theme: Red Sands
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d7c9a7
+BackgroundColour=#7a251e
+BoldBlack=#000000
+BoldBlue=#0072ff
+BoldCyan=#00bbbb
+BoldGreen=#00bb00
+BoldMagenta=#bb00bb
+BoldRed=#ff3f00
+BoldWhite=#bbbbbb
+BoldYellow=#e7b000
+Black=#555555
+Blue=#0072ae
+Cyan=#55ffff
+Green=#00bb00
+Magenta=#ff55ff
+Red=#bb0000
+White=#ffffff
+Yellow=#e7b000
+Yellow=#a4a390
+CursorColour=#ffffff

@@ -1,0 +1,23 @@
+# theme: rebecca
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e8e6ed
+BackgroundColour=#292a44
+BoldBlack=#12131e
+BoldBlue=#7aa5ff
+BoldCyan=#56d3c2
+BoldGreen=#04dbb5
+BoldMagenta=#bf9cf9
+BoldRed=#dd7755
+BoldWhite=#e4e3e9
+BoldYellow=#f2e7b7
+Black=#666699
+Blue=#69c0fa
+Cyan=#8bfde1
+Green=#01eac0
+Magenta=#c17ff8
+Red=#ff92cd
+White=#f4f2f9
+Yellow=#fffca8
+Yellow=#663399
+CursorColour=#b89bf9

@@ -1,0 +1,23 @@
+# theme: Highway
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ededed
+BackgroundColour=#222225
+BoldBlack=#000000
+BoldBlue=#006bb3
+BoldCyan=#384564
+BoldGreen=#138034
+BoldMagenta=#6b2775
+BoldRed=#d00e18
+BoldWhite=#ededed
+BoldYellow=#ffcb3e
+Black=#5d504a
+Blue=#4fc2fd
+Cyan=#5d504a
+Green=#b1d130
+Magenta=#de0071
+Red=#f07e18
+White=#ffffff
+Yellow=#fff120
+Yellow=#384564
+CursorColour=#e0d9b9

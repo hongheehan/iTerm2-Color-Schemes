@@ -1,0 +1,23 @@
+# theme: Harper
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#a8a49d
+BackgroundColour=#010101
+BoldBlack=#010101
+BoldBlue=#489e48
+BoldCyan=#f5bfd7
+BoldGreen=#7fb5e1
+BoldMagenta=#b296c6
+BoldRed=#f8b63f
+BoldWhite=#a8a49d
+BoldYellow=#d6da25
+Black=#726e6a
+Blue=#489e48
+Cyan=#f5bfd7
+Green=#7fb5e1
+Magenta=#b296c6
+Red=#f8b63f
+White=#fefbea
+Yellow=#d6da25
+Yellow=#5a5753
+CursorColour=#a8a49d

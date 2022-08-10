@@ -1,0 +1,23 @@
+# theme: synthwave
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dad9c7
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#2186ec
+BoldCyan=#12c3e2
+BoldGreen=#1ebb2b
+BoldMagenta=#f85a21
+BoldRed=#f6188f
+BoldWhite=#ffffff
+BoldYellow=#fdf834
+Black=#000000
+Blue=#2f9ded
+Cyan=#19cde6
+Green=#25c141
+Magenta=#f97137
+Red=#f841a0
+White=#ffffff
+Yellow=#fdf454
+Yellow=#19cde6
+CursorColour=#19cde6

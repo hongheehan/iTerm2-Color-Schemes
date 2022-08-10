@@ -1,0 +1,23 @@
+# theme: DotGov
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ebebeb
+BackgroundColour=#262c35
+BoldBlack=#191919
+BoldBlue=#17b2e0
+BoldCyan=#8bd2ed
+BoldGreen=#3d9751
+BoldMagenta=#7830b0
+BoldRed=#bf091d
+BoldWhite=#ffffff
+BoldYellow=#f6bb34
+Black=#191919
+Blue=#17b2e0
+Cyan=#8bd2ed
+Green=#3d9751
+Magenta=#7830b0
+Red=#bf091d
+White=#ffffff
+Yellow=#f6bb34
+Yellow=#1a4080
+CursorColour=#d9002f

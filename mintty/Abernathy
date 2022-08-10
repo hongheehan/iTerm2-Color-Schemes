@@ -1,0 +1,23 @@
+# theme: Abernathy
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#eeeeec
+BackgroundColour=#111416
+BoldBlack=#000000
+BoldBlue=#1093f5
+BoldCyan=#00cdcd
+BoldGreen=#00cd00
+BoldMagenta=#cd00cd
+BoldRed=#cd0000
+BoldWhite=#faebd7
+BoldYellow=#cdcd00
+Black=#404040
+Blue=#11b5f6
+Cyan=#00ffff
+Green=#00ff00
+Magenta=#ff00ff
+Red=#ff0000
+White=#ffffff
+Yellow=#ffff00
+Yellow=#eeeeec
+CursorColour=#bbbbbb

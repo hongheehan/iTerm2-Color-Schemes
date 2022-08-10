@@ -1,0 +1,23 @@
+# theme: MaterialDarker
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#eeffff
+BackgroundColour=#212121
+BoldBlack=#000000
+BoldBlue=#82aaff
+BoldCyan=#89ddff
+BoldGreen=#c3e88d
+BoldMagenta=#c792ea
+BoldRed=#ff5370
+BoldWhite=#ffffff
+BoldYellow=#ffcb6b
+Black=#545454
+Blue=#82aaff
+Cyan=#89ddff
+Green=#c3e88d
+Magenta=#c792ea
+Red=#ff5370
+White=#ffffff
+Yellow=#ffcb6b
+Yellow=#eeffff
+CursorColour=#ffffff

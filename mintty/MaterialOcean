@@ -1,0 +1,23 @@
+# theme: MaterialOcean
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#8f93a2
+BackgroundColour=#0f111a
+BoldBlack=#546e7a
+BoldBlue=#82aaff
+BoldCyan=#89ddff
+BoldGreen=#c3e88d
+BoldMagenta=#c792ea
+BoldRed=#ff5370
+BoldWhite=#ffffff
+BoldYellow=#ffcb6b
+Black=#546e7a
+Blue=#82aaff
+Cyan=#89ddff
+Green=#c3e88d
+Magenta=#c792ea
+Red=#ff5370
+White=#ffffff
+Yellow=#ffcb6b
+Yellow=#1f2233
+CursorColour=#ffcc00

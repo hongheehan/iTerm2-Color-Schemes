@@ -1,0 +1,23 @@
+# theme: Kibble
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f7f7f7
+BackgroundColour=#0e100a
+BoldBlack=#4d4d4d
+BoldBlue=#3449d1
+BoldCyan=#0798ab
+BoldGreen=#29cf13
+BoldMagenta=#8400ff
+BoldRed=#c70031
+BoldWhite=#e2d1e3
+BoldYellow=#d8e30e
+Black=#5a5a5a
+Blue=#97a4f7
+Cyan=#68f2e0
+Green=#6ce05c
+Magenta=#c495f0
+Red=#f01578
+White=#ffffff
+Yellow=#f3f79e
+Yellow=#9ba787
+CursorColour=#9fda9c

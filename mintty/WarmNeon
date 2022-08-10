@@ -1,0 +1,23 @@
+# theme: WarmNeon
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#afdab6
+BackgroundColour=#404040
+BoldBlack=#000000
+BoldBlue=#4261c5
+BoldCyan=#2abbd4
+BoldGreen=#39b13a
+BoldMagenta=#f920fb
+BoldRed=#e24346
+BoldWhite=#d0b8a3
+BoldYellow=#dae145
+Black=#fefcfc
+Blue=#7b91d6
+Cyan=#5ed1e5
+Green=#9cc090
+Magenta=#f674ba
+Red=#e97071
+White=#d8c8bb
+Yellow=#ddda7a
+Yellow=#b0ad21
+CursorColour=#30ff24

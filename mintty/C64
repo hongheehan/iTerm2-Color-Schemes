@@ -1,0 +1,23 @@
+# theme: C64
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#7869c4
+BackgroundColour=#40318d
+BoldBlack=#090300
+BoldBlue=#40318d
+BoldCyan=#67b6bd
+BoldGreen=#55a049
+BoldMagenta=#8b3f96
+BoldRed=#883932
+BoldWhite=#ffffff
+BoldYellow=#bfce72
+Black=#000000
+Blue=#40318d
+Cyan=#67b6bd
+Green=#55a049
+Magenta=#8b3f96
+Red=#883932
+White=#f7f7f7
+Yellow=#bfce72
+Yellow=#7869c4
+CursorColour=#7869c4

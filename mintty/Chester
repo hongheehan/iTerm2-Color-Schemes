@@ -1,0 +1,23 @@
+# theme: Chester
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#2c3643
+BoldBlack=#080200
+BoldBlue=#288ad6
+BoldCyan=#28ddde
+BoldGreen=#16c98d
+BoldMagenta=#d34590
+BoldRed=#fa5e5b
+BoldWhite=#e7e7e7
+BoldYellow=#ffc83f
+Black=#6f6b68
+Blue=#278ad6
+Cyan=#27dede
+Green=#16c98d
+Magenta=#d34590
+Red=#fa5e5b
+White=#ffffff
+Yellow=#feef6d
+Yellow=#67747c
+CursorColour=#b4b1b1

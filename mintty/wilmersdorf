@@ -1,0 +1,23 @@
+# theme: wilmersdorf
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c6c6c6
+BackgroundColour=#282b33
+BoldBlack=#34373e
+BoldBlue=#a6c1e0
+BoldCyan=#5b94ab
+BoldGreen=#7ebebd
+BoldMagenta=#e1c1ee
+BoldRed=#e06383
+BoldWhite=#ababab
+BoldYellow=#cccccc
+Black=#434750
+Blue=#b2cff0
+Cyan=#69abc5
+Green=#8fd7d6
+Magenta=#efccfd
+Red=#fa7193
+White=#d3d3d3
+Yellow=#d1dfff
+Yellow=#1f2024
+CursorColour=#7ebebd

@@ -1,0 +1,23 @@
+# theme: Earthsong
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e5c7a9
+BackgroundColour=#292520
+BoldBlack=#121418
+BoldBlue=#1398b9
+BoldCyan=#509552
+BoldGreen=#85c54c
+BoldMagenta=#d0633d
+BoldRed=#c94234
+BoldWhite=#e5c6aa
+BoldYellow=#f5ae2e
+Black=#675f54
+Blue=#5fdaff
+Cyan=#84f088
+Green=#98e036
+Magenta=#ff9269
+Red=#ff645a
+White=#f6f7ec
+Yellow=#e0d561
+Yellow=#121418
+CursorColour=#f6f7ec

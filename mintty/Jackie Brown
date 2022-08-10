@@ -1,0 +1,23 @@
+# theme: Jackie Brown
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffcc2f
+BackgroundColour=#2c1d16
+BoldBlack=#2c1d16
+BoldBlue=#246eb2
+BoldCyan=#00acee
+BoldGreen=#2baf2b
+BoldMagenta=#d05ec1
+BoldRed=#ef5734
+BoldWhite=#bfbfbf
+BoldYellow=#bebf00
+Black=#666666
+Blue=#0000ff
+Cyan=#00e5e5
+Green=#86a93e
+Magenta=#e500e5
+Red=#e50000
+White=#e5e5e5
+Yellow=#e5e500
+Yellow=#af8d21
+CursorColour=#23ff18

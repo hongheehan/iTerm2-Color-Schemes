@@ -1,0 +1,23 @@
+# theme: DimmedMonokai
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b9bcba
+BackgroundColour=#1f1f1f
+BoldBlack=#3a3d43
+BoldBlue=#4f76a1
+BoldCyan=#578fa4
+BoldGreen=#879a3b
+BoldMagenta=#855c8d
+BoldRed=#be3f48
+BoldWhite=#b9bcba
+BoldYellow=#c5a635
+Black=#888987
+Blue=#186de3
+Cyan=#2e706d
+Green=#0f722f
+Magenta=#fb0067
+Red=#fb001f
+White=#fdffb9
+Yellow=#c47033
+Yellow=#2a2d32
+CursorColour=#f83e19

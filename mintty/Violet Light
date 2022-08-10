@@ -1,0 +1,23 @@
+# theme: Violet Light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#536870
+BackgroundColour=#fcf4dc
+BoldBlack=#56595c
+BoldBlue=#2e8bce
+BoldCyan=#32a198
+BoldGreen=#85981c
+BoldMagenta=#d13a82
+BoldRed=#c94c22
+BoldWhite=#d3d0c9
+BoldYellow=#b4881d
+Black=#45484b
+Blue=#2176c7
+Cyan=#259286
+Green=#738a04
+Magenta=#c61c6f
+Red=#bd3613
+White=#c9c6bd
+Yellow=#a57705
+Yellow=#595ab7
+CursorColour=#536870

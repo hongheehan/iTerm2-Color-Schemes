@@ -1,0 +1,23 @@
+# theme: Seafoam Pastel
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d4e7d4
+BackgroundColour=#243435
+BoldBlack=#757575
+BoldBlue=#4d7b82
+BoldCyan=#729494
+BoldGreen=#728c62
+BoldMagenta=#8a7267
+BoldRed=#825d4d
+BoldWhite=#e0e0e0
+BoldYellow=#ada16d
+Black=#8a8a8a
+Blue=#7ac3cf
+Cyan=#ade0e0
+Green=#98d9aa
+Magenta=#d6b2a1
+Red=#cf937a
+White=#e0e0e0
+Yellow=#fae79d
+Yellow=#ffffff
+CursorColour=#57647a

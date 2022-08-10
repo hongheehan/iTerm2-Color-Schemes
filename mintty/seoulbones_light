@@ -1,0 +1,23 @@
+# theme: seoulbones_light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#555555
+BackgroundColour=#e2e2e2
+BoldBlack=#e2e2e2
+BoldBlue=#0084a3
+BoldCyan=#008586
+BoldGreen=#628562
+BoldMagenta=#896788
+BoldRed=#dc5284
+BoldWhite=#555555
+BoldYellow=#c48562
+Black=#bfbabb
+Blue=#006f89
+Cyan=#006f70
+Green=#487249
+Magenta=#7f4c7e
+Red=#be3c6d
+White=#777777
+Yellow=#a76b48
+Yellow=#cccccc
+CursorColour=#555555

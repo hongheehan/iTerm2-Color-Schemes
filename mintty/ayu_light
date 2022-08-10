@@ -1,0 +1,23 @@
+# theme: ayu_light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#5c6773
+BackgroundColour=#fafafa
+BoldBlack=#000000
+BoldBlue=#41a6d9
+BoldCyan=#4dbf99
+BoldGreen=#86b300
+BoldMagenta=#f07178
+BoldRed=#ff3333
+BoldWhite=#ffffff
+BoldYellow=#f29718
+Black=#323232
+Blue=#73d8ff
+Cyan=#7ff1cb
+Green=#b8e532
+Magenta=#ffa3aa
+Red=#ff6565
+White=#ffffff
+Yellow=#ffc94a
+Yellow=#f0eee4
+CursorColour=#ff6a00

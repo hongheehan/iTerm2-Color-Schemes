@@ -1,0 +1,23 @@
+# theme: DjangoSmooth
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f8f8f8
+BackgroundColour=#245032
+BoldBlack=#000000
+BoldBlue=#989898
+BoldCyan=#9df39f
+BoldGreen=#41a83e
+BoldMagenta=#f8f8f8
+BoldRed=#fd6209
+BoldWhite=#e8e8e7
+BoldYellow=#ffe862
+Black=#323232
+Blue=#cacaca
+Cyan=#cfffd1
+Green=#73da70
+Magenta=#ffffff
+Red=#ff943b
+White=#ffffff
+Yellow=#ffff94
+Yellow=#336442
+CursorColour=#336442

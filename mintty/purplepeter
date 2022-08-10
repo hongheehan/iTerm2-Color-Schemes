@@ -1,0 +1,23 @@
+# theme: purplepeter
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ece7fa
+BackgroundColour=#2a1a4a
+BoldBlack=#0a0520
+BoldBlue=#66d9ef
+BoldCyan=#ba8cff
+BoldGreen=#99b481
+BoldMagenta=#e78fcd
+BoldRed=#ff796d
+BoldWhite=#ffba81
+BoldYellow=#efdfac
+Black=#100b23
+Blue=#79daed
+Cyan=#a0a0d6
+Green=#b4be8f
+Magenta=#ba91d4
+Red=#f99f92
+White=#b9aed3
+Yellow=#f2e9bf
+Yellow=#8689c2
+CursorColour=#c7c7c7

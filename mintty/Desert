@@ -1,0 +1,23 @@
+# theme: Desert
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#333333
+BoldBlack=#4d4d4d
+BoldBlue=#cd853f
+BoldCyan=#ffa0a0
+BoldGreen=#98fb98
+BoldMagenta=#ffdead
+BoldRed=#ff2b2b
+BoldWhite=#f5deb3
+BoldYellow=#f0e68c
+Black=#555555
+Blue=#87ceff
+Cyan=#ffd700
+Green=#55ff55
+Magenta=#ff55ff
+Red=#ff5555
+White=#ffffff
+Yellow=#ffff55
+Yellow=#b5d5ff
+CursorColour=#00ff00

@@ -1,0 +1,23 @@
+# theme: Firewatch
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#9ba2b2
+BackgroundColour=#1e2027
+BoldBlack=#585f6d
+BoldBlue=#4d89c4
+BoldCyan=#44a8b6
+BoldGreen=#5ab977
+BoldMagenta=#d55119
+BoldRed=#d95360
+BoldWhite=#e6e5ff
+BoldYellow=#dfb563
+Black=#585f6d
+Blue=#4c89c5
+Cyan=#44a8b6
+Green=#5ab977
+Magenta=#d55119
+Red=#d95360
+White=#e6e5ff
+Yellow=#dfb563
+Yellow=#2f363e
+CursorColour=#f6f7ec

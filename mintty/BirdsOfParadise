@@ -1,0 +1,23 @@
+# theme: BirdsOfParadise
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e0dbb7
+BackgroundColour=#2a1f1d
+BoldBlack=#573d26
+BoldBlue=#5a86ad
+BoldCyan=#74a6ad
+BoldGreen=#6ba18a
+BoldMagenta=#ac80a6
+BoldRed=#be2d26
+BoldWhite=#e0dbb7
+BoldYellow=#e99d2a
+Black=#9b6c4a
+Blue=#b8d3ed
+Cyan=#93cfd7
+Green=#95d8ba
+Magenta=#d19ecb
+Red=#e84627
+White=#fff9d5
+Yellow=#d0d150
+Yellow=#563c27
+CursorColour=#573d26

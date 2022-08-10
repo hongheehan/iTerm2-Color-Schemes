@@ -1,0 +1,23 @@
+# theme: Scarlet Protocol
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e41951
+BackgroundColour=#1c153d
+BoldBlack=#101116
+BoldBlue=#0271b6
+BoldCyan=#00c5c7
+BoldGreen=#00dc84
+BoldMagenta=#ca30c7
+BoldRed=#ff0051
+BoldWhite=#c7c7c7
+BoldYellow=#faf945
+Black=#686868
+Blue=#6871ff
+Cyan=#60fdff
+Green=#5ffa68
+Magenta=#bd35ec
+Red=#ff6e67
+White=#ffffff
+Yellow=#fffc67
+Yellow=#c1deff
+CursorColour=#76ff9f

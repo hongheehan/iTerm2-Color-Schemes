@@ -1,0 +1,23 @@
+# theme: Red Planet
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c2b790
+BackgroundColour=#222222
+BoldBlack=#202020
+BoldBlue=#69819e
+BoldCyan=#5b8390
+BoldGreen=#728271
+BoldMagenta=#896492
+BoldRed=#8c3432
+BoldWhite=#b9aa99
+BoldYellow=#e8bf6a
+Black=#676767
+Blue=#60827e
+Cyan=#38add8
+Green=#869985
+Magenta=#de4974
+Red=#b55242
+White=#d6bfb8
+Yellow=#ebeb91
+Yellow=#1b324a
+CursorColour=#c2b790

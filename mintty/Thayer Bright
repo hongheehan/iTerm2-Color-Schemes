@@ -1,0 +1,23 @@
+# theme: Thayer Bright
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f8f8f8
+BackgroundColour=#1b1d1e
+BoldBlack=#1b1d1e
+BoldBlue=#2757d6
+BoldCyan=#38c8b5
+BoldGreen=#4df840
+BoldMagenta=#8c54fe
+BoldRed=#f92672
+BoldWhite=#ccccc6
+BoldYellow=#f4fd22
+Black=#505354
+Blue=#3f78ff
+Cyan=#23cfd5
+Green=#b6e354
+Magenta=#9e6ffe
+Red=#ff5995
+White=#f8f8f2
+Yellow=#feed6c
+Yellow=#4d4d4d
+CursorColour=#fc971f

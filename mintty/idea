@@ -1,0 +1,23 @@
+# theme: idea
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#adadad
+BackgroundColour=#202020
+BoldBlack=#adadad
+BoldBlue=#437ee7
+BoldCyan=#248887
+BoldGreen=#98b61c
+BoldMagenta=#9d74b0
+BoldRed=#fc5256
+BoldWhite=#181818
+BoldYellow=#ccb444
+Black=#ffffff
+Blue=#6c9ced
+Cyan=#248887
+Green=#98b61c
+Magenta=#fc7eff
+Red=#fc7072
+White=#181818
+Yellow=#ffff0b
+Yellow=#44475a
+CursorColour=#bbbbbb

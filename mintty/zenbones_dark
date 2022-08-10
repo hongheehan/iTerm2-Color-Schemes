@@ -1,0 +1,23 @@
+# theme: zenbones_dark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b4bdc3
+BackgroundColour=#1c1917
+BoldBlack=#1c1917
+BoldBlue=#6099c0
+BoldCyan=#66a5ad
+BoldGreen=#819b69
+BoldMagenta=#b279a7
+BoldRed=#de6e7c
+BoldWhite=#b4bdc3
+BoldYellow=#b77e64
+Black=#403833
+Blue=#61abda
+Cyan=#65b8c1
+Green=#8bae68
+Magenta=#cf86c1
+Red=#e8838f
+White=#888f94
+Yellow=#d68c67
+Yellow=#3d4042
+CursorColour=#c4cacf

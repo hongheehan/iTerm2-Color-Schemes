@@ -1,0 +1,23 @@
+# theme: AlienBlood
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#637d75
+BackgroundColour=#0f1610
+BoldBlack=#112616
+BoldBlue=#2f6a7f
+BoldCyan=#327f77
+BoldGreen=#2f7e25
+BoldMagenta=#47587f
+BoldRed=#7f2b27
+BoldWhite=#647d75
+BoldYellow=#717f24
+Black=#3c4812
+Blue=#00aae0
+Cyan=#00e0c4
+Green=#18e000
+Magenta=#0058e0
+Red=#e08009
+White=#73fa91
+Yellow=#bde000
+Yellow=#1d4125
+CursorColour=#73fa91

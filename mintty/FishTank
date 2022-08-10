@@ -1,0 +1,23 @@
+# theme: FishTank
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ecf0fe
+BackgroundColour=#232537
+BoldBlack=#03073c
+BoldBlue=#525fb8
+BoldCyan=#968763
+BoldGreen=#acf157
+BoldMagenta=#986f82
+BoldRed=#c6004a
+BoldWhite=#ecf0fc
+BoldYellow=#fecd5e
+Black=#6c5b30
+Blue=#b2befa
+Cyan=#a5bd86
+Green=#dbffa9
+Magenta=#fda5cd
+Red=#da4b8a
+White=#f6ffec
+Yellow=#fee6a9
+Yellow=#fcf7e9
+CursorColour=#fecd5e

@@ -1,0 +1,23 @@
+# theme: Floraverse
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dbd1b9
+BackgroundColour=#0e0d15
+BoldBlack=#08002e
+BoldBlue=#1d6da1
+BoldCyan=#42a38c
+BoldGreen=#5d731a
+BoldMagenta=#b7077e
+BoldRed=#64002c
+BoldWhite=#f3e0b8
+BoldYellow=#cd751c
+Black=#331e4d
+Blue=#40a4cf
+Cyan=#62caa8
+Green=#b4ce59
+Magenta=#f12aae
+Red=#d02063
+White=#fff5db
+Yellow=#fac357
+Yellow=#f3e0b8
+CursorColour=#bbbbbb

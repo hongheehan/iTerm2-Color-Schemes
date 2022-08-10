@@ -1,0 +1,23 @@
+# theme: JetBrains Darcula
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#adadad
+BackgroundColour=#202020
+BoldBlack=#000000
+BoldBlue=#4581eb
+BoldCyan=#33c2c1
+BoldGreen=#126e00
+BoldMagenta=#fa54ff
+BoldRed=#fa5355
+BoldWhite=#adadad
+BoldYellow=#c2c300
+Black=#555555
+Blue=#6d9df1
+Cyan=#60d3d1
+Green=#67ff4f
+Magenta=#fb82ff
+Red=#fb7172
+White=#eeeeee
+Yellow=#ffff00
+Yellow=#1a3272
+CursorColour=#ffffff

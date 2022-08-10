@@ -1,0 +1,23 @@
+# theme: Solarized Dark Higher Contrast
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#9cc2c3
+BackgroundColour=#001e27
+BoldBlack=#002831
+BoldBlue=#2176c7
+BoldCyan=#259286
+BoldGreen=#6cbe6c
+BoldMagenta=#c61c6f
+BoldRed=#d11c24
+BoldWhite=#eae3cb
+BoldYellow=#a57706
+Black=#006488
+Blue=#178ec8
+Cyan=#00b39e
+Green=#51ef84
+Magenta=#e24d8e
+Red=#f5163b
+White=#fcf4dc
+Yellow=#b27e28
+Yellow=#003748
+CursorColour=#f34b00

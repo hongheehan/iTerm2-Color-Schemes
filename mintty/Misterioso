@@ -1,0 +1,23 @@
+# theme: Misterioso
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e1e1e0
+BackgroundColour=#2d3743
+BoldBlack=#000000
+BoldBlue=#338f86
+BoldCyan=#23d7d7
+BoldGreen=#74af68
+BoldMagenta=#9414e6
+BoldRed=#ff4242
+BoldWhite=#e1e1e0
+BoldYellow=#ffad29
+Black=#555555
+Blue=#23d7d7
+Cyan=#00ede1
+Green=#74cd68
+Magenta=#ff37ff
+Red=#ff3242
+White=#ffffff
+Yellow=#ffb929
+Yellow=#2d37ff
+CursorColour=#000000

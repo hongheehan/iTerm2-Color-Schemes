@@ -1,0 +1,23 @@
+# theme: Whimsy
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b3b0d6
+BackgroundColour=#29283b
+BoldBlack=#535178
+BoldBlue=#65aef7
+BoldCyan=#43c1be
+BoldGreen=#5eca89
+BoldMagenta=#aa7ff0
+BoldRed=#ef6487
+BoldWhite=#ffffff
+BoldYellow=#fdd877
+Black=#535178
+Blue=#65aef7
+Cyan=#43c1be
+Green=#5eca89
+Magenta=#aa7ff0
+Red=#ef6487
+White=#ffffff
+Yellow=#fdd877
+Yellow=#3d3c58
+CursorColour=#b3b0d6

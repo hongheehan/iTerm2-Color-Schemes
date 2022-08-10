@@ -1,0 +1,23 @@
+# theme: Twilight
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffd4
+BackgroundColour=#141414
+BoldBlack=#141414
+BoldBlue=#44474a
+BoldCyan=#778385
+BoldGreen=#afb97a
+BoldMagenta=#b4be7c
+BoldRed=#c06d44
+BoldWhite=#ffffd4
+BoldYellow=#c2a86c
+Black=#262626
+Blue=#5a5e62
+Cyan=#8a989b
+Green=#ccd88c
+Magenta=#d0dc8e
+Red=#de7c4c
+White=#ffffd4
+Yellow=#e2c47e
+Yellow=#313131
+CursorColour=#ffffff

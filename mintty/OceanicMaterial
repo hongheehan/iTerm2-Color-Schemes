@@ -1,0 +1,23 @@
+# theme: OceanicMaterial
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c2c8d7
+BackgroundColour=#1c262b
+BoldBlack=#000000
+BoldBlue=#1e80f0
+BoldCyan=#16afca
+BoldGreen=#40a33f
+BoldMagenta=#8800a0
+BoldRed=#ee2b2a
+BoldWhite=#a4a4a4
+BoldYellow=#ffea2e
+Black=#777777
+Blue=#54a4f3
+Cyan=#42c7da
+Green=#70be71
+Magenta=#aa4dbc
+Red=#dc5c60
+White=#ffffff
+Yellow=#fff163
+Yellow=#6dc2b8
+CursorColour=#b3b8c3

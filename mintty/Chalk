@@ -1,0 +1,23 @@
+# theme: Chalk
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d2d8d9
+BackgroundColour=#2b2d2e
+BoldBlack=#7d8b8f
+BoldBlue=#2a7fac
+BoldCyan=#44a799
+BoldGreen=#789b6a
+BoldMagenta=#bd4f5a
+BoldRed=#b23a52
+BoldWhite=#d2d8d9
+BoldYellow=#b9ac4a
+Black=#888888
+Blue=#4196ff
+Cyan=#53cdbd
+Green=#80c470
+Magenta=#fc5275
+Red=#f24840
+White=#d2d8d9
+Yellow=#ffeb62
+Yellow=#e4e8ed
+CursorColour=#708284

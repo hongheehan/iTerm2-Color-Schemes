@@ -1,0 +1,23 @@
+# theme: UnderTheSea
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#011116
+BoldBlack=#022026
+BoldBlue=#459a86
+BoldCyan=#5d7e19
+BoldGreen=#00a941
+BoldMagenta=#00599d
+BoldRed=#b2302d
+BoldWhite=#405555
+BoldYellow=#59819c
+Black=#384451
+Blue=#61d5ba
+Cyan=#98d028
+Green=#2aea5e
+Magenta=#1298ff
+Red=#ff4242
+White=#58fbd6
+Yellow=#8ed4fd
+Yellow=#415555
+CursorColour=#4afcd6

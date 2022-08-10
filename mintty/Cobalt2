@@ -1,0 +1,23 @@
+# theme: Cobalt2
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#132738
+BoldBlack=#000000
+BoldBlue=#1460d2
+BoldCyan=#00bbbb
+BoldGreen=#38de21
+BoldMagenta=#ff005d
+BoldRed=#ff0000
+BoldWhite=#bbbbbb
+BoldYellow=#ffe50a
+Black=#555555
+Blue=#5555ff
+Cyan=#6ae3fa
+Green=#3bd01d
+Magenta=#ff55ff
+Red=#f40e17
+White=#ffffff
+Yellow=#edc809
+Yellow=#18354f
+CursorColour=#f0cc09

@@ -1,0 +1,23 @@
+# theme: FirefoxDev
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#7c8fa4
+BackgroundColour=#0e1011
+BoldBlack=#002831
+BoldBlue=#359ddf
+BoldCyan=#4b73a2
+BoldGreen=#5eb83c
+BoldMagenta=#d75cff
+BoldRed=#e63853
+BoldWhite=#dcdcdc
+BoldYellow=#a57706
+Black=#001e27
+Blue=#006fc0
+Cyan=#005794
+Green=#1d9000
+Magenta=#a200da
+Red=#e1003f
+White=#e2e2e2
+Yellow=#cd9409
+Yellow=#163c61
+CursorColour=#708284

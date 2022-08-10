@@ -1,0 +1,23 @@
+# theme: Relaxed
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d9d9d9
+BackgroundColour=#353a44
+BoldBlack=#151515
+BoldBlue=#6a8799
+BoldCyan=#c9dfff
+BoldGreen=#909d63
+BoldMagenta=#b06698
+BoldRed=#bc5653
+BoldWhite=#d9d9d9
+BoldYellow=#ebc17a
+Black=#636363
+Blue=#7eaac7
+Cyan=#acbbd0
+Green=#a0ac77
+Magenta=#b06698
+Red=#bc5653
+White=#f7f7f7
+Yellow=#ebc17a
+Yellow=#6a7985
+CursorColour=#d9d9d9

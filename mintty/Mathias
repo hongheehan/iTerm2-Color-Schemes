@@ -1,0 +1,23 @@
+# theme: Mathias
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#bbbbbb
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#c48dff
+BoldCyan=#67d9f0
+BoldGreen=#a6e32d
+BoldMagenta=#fa2573
+BoldRed=#e52222
+BoldWhite=#f2f2f2
+BoldYellow=#fc951e
+Black=#555555
+Blue=#5555ff
+Cyan=#55ffff
+Green=#55ff55
+Magenta=#ff55ff
+Red=#ff5555
+White=#ffffff
+Yellow=#ffff55
+Yellow=#555555
+CursorColour=#bbbbbb

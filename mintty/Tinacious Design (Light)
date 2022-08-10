@@ -1,0 +1,23 @@
+# theme: Tinacious Design (Light)
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#1d1d26
+BackgroundColour=#f8f8ff
+BoldBlack=#1d1d26
+BoldBlue=#00cbff
+BoldCyan=#00ceca
+BoldGreen=#00d364
+BoldMagenta=#cc66ff
+BoldRed=#ff3399
+BoldWhite=#cbcbf0
+BoldYellow=#ffcc66
+Black=#636667
+Blue=#00cbff
+Cyan=#00d5d4
+Green=#00d364
+Magenta=#d783ff
+Red=#ff2f92
+White=#d5d6f3
+Yellow=#ffd479
+Yellow=#ff3399
+CursorColour=#cbcbf0

@@ -1,0 +1,23 @@
+# theme: nord-light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#414858
+BackgroundColour=#e5e9f0
+BoldBlack=#3b4252
+BoldBlue=#81a1c1
+BoldCyan=#88c0d0
+BoldGreen=#a3be8c
+BoldMagenta=#b48ead
+BoldRed=#bf616a
+BoldWhite=#d8dee9
+BoldYellow=#ebcb8b
+Black=#4c566a
+Blue=#81a1c1
+Cyan=#8fbcbb
+Green=#a3be8c
+Magenta=#b48ead
+Red=#bf616a
+White=#eceff4
+Yellow=#ebcb8b
+Yellow=#d8dee9
+CursorColour=#88c0d0

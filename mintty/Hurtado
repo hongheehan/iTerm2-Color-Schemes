@@ -1,0 +1,23 @@
+# theme: Hurtado
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dbdbdb
+BackgroundColour=#000000
+BoldBlack=#575757
+BoldBlue=#496487
+BoldCyan=#86e9fe
+BoldGreen=#a5e055
+BoldMagenta=#fd5ff1
+BoldRed=#ff1b00
+BoldWhite=#cbcccb
+BoldYellow=#fbe74a
+Black=#262626
+Blue=#89beff
+Cyan=#86eafe
+Green=#a5df55
+Magenta=#c001c1
+Red=#d51d00
+White=#dbdbdb
+Yellow=#fbe84a
+Yellow=#b5d5ff
+CursorColour=#bbbbbb

@@ -1,0 +1,23 @@
+# theme: Royal
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#514968
+BackgroundColour=#100815
+BoldBlack=#241f2b
+BoldBlue=#6580b0
+BoldCyan=#8aaabe
+BoldGreen=#23801c
+BoldMagenta=#674d96
+BoldRed=#91284c
+BoldWhite=#524966
+BoldYellow=#b49d27
+Black=#312d3d
+Blue=#90baf9
+Cyan=#acd4eb
+Green=#2cd946
+Magenta=#a479e3
+Red=#d5356c
+White=#9e8cbd
+Yellow=#fde83b
+Yellow=#1f1d2b
+CursorColour=#524966

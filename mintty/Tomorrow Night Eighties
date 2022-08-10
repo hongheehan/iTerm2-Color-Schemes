@@ -1,0 +1,23 @@
+# theme: Tomorrow Night Eighties
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#cccccc
+BackgroundColour=#2d2d2d
+BoldBlack=#000000
+BoldBlue=#6699cc
+BoldCyan=#66cccc
+BoldGreen=#99cc99
+BoldMagenta=#cc99cc
+BoldRed=#f2777a
+BoldWhite=#ffffff
+BoldYellow=#ffcc66
+Black=#000000
+Blue=#6699cc
+Cyan=#66cccc
+Green=#99cc99
+Magenta=#cc99cc
+Red=#f2777a
+White=#ffffff
+Yellow=#ffcc66
+Yellow=#515151
+CursorColour=#cccccc

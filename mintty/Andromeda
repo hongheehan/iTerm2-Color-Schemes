@@ -1,0 +1,23 @@
+# theme: Andromeda
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e5e5e5
+BackgroundColour=#262a33
+BoldBlack=#000000
+BoldBlue=#2472c8
+BoldCyan=#0fa8cd
+BoldGreen=#05bc79
+BoldMagenta=#bc3fbc
+BoldRed=#cd3131
+BoldWhite=#e5e5e5
+BoldYellow=#e5e512
+Black=#666666
+Blue=#2472c8
+Cyan=#0fa8cd
+Green=#05bc79
+Magenta=#bc3fbc
+Red=#cd3131
+White=#e5e5e5
+Yellow=#e5e512
+Yellow=#5a5c62
+CursorColour=#f8f8f0

@@ -1,0 +1,23 @@
+# theme: Ayu Mirage
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#cbccc6
+BackgroundColour=#1f2430
+BoldBlack=#191e2a
+BoldBlue=#6dcbfa
+BoldCyan=#90e1c6
+BoldGreen=#a6cc70
+BoldMagenta=#cfbafa
+BoldRed=#ed8274
+BoldWhite=#c7c7c7
+BoldYellow=#fad07b
+Black=#686868
+Blue=#73d0ff
+Cyan=#95e6cb
+Green=#bae67e
+Magenta=#d4bfff
+Red=#f28779
+White=#ffffff
+Yellow=#ffd580
+Yellow=#33415e
+CursorColour=#ffcc66
