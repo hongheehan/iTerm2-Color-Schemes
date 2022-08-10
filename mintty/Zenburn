@@ -1,0 +1,23 @@
+# theme: Zenburn
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dcdccc
+BackgroundColour=#3f3f3f
+BoldBlack=#4d4d4d
+BoldBlue=#506070
+BoldCyan=#8cd0d3
+BoldGreen=#60b48a
+BoldMagenta=#dc8cc3
+BoldRed=#705050
+BoldWhite=#dcdccc
+BoldYellow=#f0dfaf
+Black=#709080
+Blue=#94bff3
+Cyan=#93e0e3
+Green=#c3bf9f
+Magenta=#ec93d3
+Red=#dca3a3
+White=#ffffff
+Yellow=#e0cf9f
+Yellow=#21322f
+CursorColour=#73635a

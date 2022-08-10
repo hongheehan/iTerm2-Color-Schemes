@@ -1,0 +1,23 @@
+# theme: Fideloper
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dbdae0
+BackgroundColour=#292f33
+BoldBlack=#292f33
+BoldBlue=#2e78c2
+BoldCyan=#309186
+BoldGreen=#edb8ac
+BoldMagenta=#c0236f
+BoldRed=#cb1e2d
+BoldWhite=#eae3ce
+BoldYellow=#b7ab9b
+Black=#092028
+Blue=#7c85c4
+Cyan=#819090
+Green=#d4605a
+Magenta=#5c5db2
+Red=#d4605a
+White=#fcf4df
+Yellow=#a86671
+Yellow=#efb8ac
+CursorColour=#d4605a

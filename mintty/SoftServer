@@ -1,0 +1,23 @@
+# theme: SoftServer
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#99a3a2
+BackgroundColour=#242626
+BoldBlack=#000000
+BoldBlue=#6b8fa3
+BoldCyan=#6ba58f
+BoldGreen=#9aa56a
+BoldMagenta=#6a71a3
+BoldRed=#a2686a
+BoldWhite=#99a3a2
+BoldYellow=#a3906a
+Black=#666c6c
+Blue=#62b1df
+Cyan=#64e39c
+Green=#bfdf55
+Magenta=#606edf
+Red=#dd5c60
+White=#d2e0de
+Yellow=#deb360
+Yellow=#7f8786
+CursorColour=#d2e0de

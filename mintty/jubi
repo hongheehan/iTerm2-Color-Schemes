@@ -1,0 +1,23 @@
+# theme: jubi
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c3d3de
+BackgroundColour=#262b33
+BoldBlack=#3b3750
+BoldBlue=#576ea6
+BoldCyan=#75a7d2
+BoldGreen=#90a94b
+BoldMagenta=#bc4f68
+BoldRed=#cf7b98
+BoldWhite=#c3d3de
+BoldYellow=#6ebfc0
+Black=#a874ce
+Blue=#8c9fcd
+Cyan=#b7c9ef
+Green=#bcdd61
+Magenta=#e16c87
+Red=#de90ab
+White=#d5e5f1
+Yellow=#87e9ea
+Yellow=#5b5184
+CursorColour=#c3d3de

@@ -1,0 +1,23 @@
+# theme: Tomorrow
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#4d4d4c
+BackgroundColour=#ffffff
+BoldBlack=#000000
+BoldBlue=#4271ae
+BoldCyan=#3e999f
+BoldGreen=#718c00
+BoldMagenta=#8959a8
+BoldRed=#c82829
+BoldWhite=#ffffff
+BoldYellow=#eab700
+Black=#000000
+Blue=#4271ae
+Cyan=#3e999f
+Green=#718c00
+Magenta=#8959a8
+Red=#c82829
+White=#ffffff
+Yellow=#eab700
+Yellow=#d6d6d6
+CursorColour=#4d4d4c

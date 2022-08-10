@@ -1,0 +1,23 @@
+# theme: BlulocoDark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b9c0cb
+BackgroundColour=#282c34
+BoldBlack=#41444d
+BoldBlue=#3476ff
+BoldCyan=#4483aa
+BoldGreen=#25a45c
+BoldMagenta=#7a82da
+BoldRed=#fc2f52
+BoldWhite=#cdd4e0
+BoldYellow=#ff936a
+Black=#8f9aae
+Blue=#10b1fe
+Cyan=#5fb9bc
+Green=#3fc56b
+Magenta=#ff78f8
+Red=#ff6480
+White=#ffffff
+Yellow=#f9c859
+Yellow=#b9c0ca
+CursorColour=#ffcc00

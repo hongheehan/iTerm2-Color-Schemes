@@ -1,0 +1,23 @@
+# theme: N0tch2k
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#a0a0a0
+BackgroundColour=#222222
+BoldBlack=#383838
+BoldBlue=#657d3e
+BoldCyan=#c9c9c9
+BoldGreen=#666666
+BoldMagenta=#767676
+BoldRed=#a95551
+BoldWhite=#d0b8a3
+BoldYellow=#a98051
+Black=#474747
+Blue=#98bd5e
+Cyan=#dcdcdc
+Green=#8c8c8c
+Magenta=#a3a3a3
+Red=#a97775
+White=#d8c8bb
+Yellow=#a99175
+Yellow=#4d4d4d
+CursorColour=#aa9175

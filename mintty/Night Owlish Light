@@ -1,0 +1,23 @@
+# theme: Night Owlish Light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#403f53
+BackgroundColour=#ffffff
+BoldBlack=#011627
+BoldBlue=#4876d6
+BoldCyan=#08916a
+BoldGreen=#2aa298
+BoldMagenta=#403f53
+BoldRed=#d3423e
+BoldWhite=#7a8181
+BoldYellow=#daaa01
+Black=#7a8181
+Blue=#5ca7e4
+Cyan=#00c990
+Green=#49d0c5
+Magenta=#697098
+Red=#f76e6e
+White=#989fb1
+Yellow=#dac26b
+Yellow=#f2f2f2
+CursorColour=#403f53

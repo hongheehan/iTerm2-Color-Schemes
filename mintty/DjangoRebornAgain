@@ -1,0 +1,23 @@
+# theme: DjangoRebornAgain
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dadedc
+BackgroundColour=#051f14
+BoldBlack=#000000
+BoldBlue=#245032
+BoldCyan=#9df39f
+BoldGreen=#41a83e
+BoldMagenta=#f8f8f8
+BoldRed=#fd6209
+BoldWhite=#ffffff
+BoldYellow=#ffe862
+Black=#323232
+Blue=#568264
+Cyan=#cfffd1
+Green=#73da70
+Magenta=#ffffff
+Red=#ff943b
+White=#ffffff
+Yellow=#ffff94
+Yellow=#203727
+CursorColour=#ffcc00

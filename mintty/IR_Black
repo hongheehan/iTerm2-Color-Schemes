@@ -1,0 +1,23 @@
+# theme: IR_Black
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f1f1f1
+BackgroundColour=#000000
+BoldBlack=#4f4f4f
+BoldBlue=#96cafe
+BoldCyan=#c6c5fe
+BoldGreen=#a8ff60
+BoldMagenta=#fa73fd
+BoldRed=#fa6c60
+BoldWhite=#efedef
+BoldYellow=#fffeb7
+Black=#7b7b7b
+Blue=#b5dcff
+Cyan=#e0e0fe
+Green=#cfffab
+Magenta=#fb9cfe
+Red=#fcb6b0
+White=#ffffff
+Yellow=#ffffcc
+Yellow=#b5d5ff
+CursorColour=#808080

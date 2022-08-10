@@ -1,0 +1,23 @@
+# theme: Grey-green
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#002a1a
+BoldBlack=#000000
+BoldBlue=#00deff
+BoldCyan=#00ffbc
+BoldGreen=#74ff00
+BoldMagenta=#ff00f0
+BoldRed=#fe1414
+BoldWhite=#ffffff
+BoldYellow=#f1ff01
+Black=#666666
+Blue=#00afff
+Cyan=#00ffd3
+Green=#00ff44
+Magenta=#ff008a
+Red=#ff3939
+White=#f5ecec
+Yellow=#ffd100
+Yellow=#517e50
+CursorColour=#fff400

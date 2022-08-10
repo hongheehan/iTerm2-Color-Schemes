@@ -1,0 +1,23 @@
+# theme: Doom Peacock
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ede0ce
+BackgroundColour=#2b2a27
+BoldBlack=#1c1f24
+BoldBlue=#2a6cc6
+BoldCyan=#5699af
+BoldGreen=#26a6a6
+BoldMagenta=#a9a1e1
+BoldRed=#cb4b16
+BoldWhite=#ede0ce
+BoldYellow=#bcd42a
+Black=#2b2a27
+Blue=#51afef
+Cyan=#46d9ff
+Green=#98be65
+Magenta=#c678dd
+Red=#ff5d38
+White=#dfdfdf
+Yellow=#e6f972
+Yellow=#a60033
+CursorColour=#9c9c9d

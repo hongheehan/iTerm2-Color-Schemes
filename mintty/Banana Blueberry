@@ -1,0 +1,23 @@
+# theme: Banana Blueberry
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#cccccc
+BackgroundColour=#191323
+BoldBlack=#17141f
+BoldBlue=#22e8df
+BoldCyan=#56b6c2
+BoldGreen=#00bd9c
+BoldMagenta=#dc396a
+BoldRed=#ff6b7f
+BoldWhite=#f1f1f1
+BoldYellow=#e6c62f
+Black=#495162
+Blue=#91fff4
+Cyan=#bcf3ff
+Green=#98c379
+Magenta=#da70d6
+Red=#fe9ea1
+White=#ffffff
+Yellow=#f9e46b
+Yellow=#220525
+CursorColour=#e07d13

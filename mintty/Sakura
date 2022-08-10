@@ -1,0 +1,23 @@
+# theme: Sakura
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dd7bdc
+BackgroundColour=#18131e
+BoldBlack=#000000
+BoldBlue=#6964ab
+BoldCyan=#939393
+BoldGreen=#41af1a
+BoldMagenta=#c71fbf
+BoldRed=#d52370
+BoldWhite=#998eac
+BoldYellow=#bc7053
+Black=#786d69
+Blue=#9892f1
+Cyan=#eeeeee
+Green=#22e529
+Magenta=#e90cdd
+Red=#f41d99
+White=#cbb6ff
+Yellow=#f59574
+Yellow=#c05cbf
+CursorColour=#ff65fd

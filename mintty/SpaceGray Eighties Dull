@@ -1,0 +1,23 @@
+# theme: SpaceGray Eighties Dull
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c9c6bc
+BackgroundColour=#222222
+BoldBlack=#15171c
+BoldBlue=#7c8fa5
+BoldCyan=#80cdcb
+BoldGreen=#92b477
+BoldMagenta=#a5789e
+BoldRed=#b24a56
+BoldWhite=#b3b8c3
+BoldYellow=#c6735a
+Black=#555555
+Blue=#5486c0
+Cyan=#58c2c1
+Green=#89e986
+Magenta=#bf83c1
+Red=#ec5f67
+White=#ffffff
+Yellow=#fec254
+Yellow=#272e36
+CursorColour=#bbbbbb

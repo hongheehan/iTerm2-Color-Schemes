@@ -1,0 +1,23 @@
+# theme: GitHub Dark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#8b949e
+BackgroundColour=#101216
+BoldBlack=#000000
+BoldBlue=#6ca4f8
+BoldCyan=#2b7489
+BoldGreen=#56d364
+BoldMagenta=#db61a2
+BoldRed=#f78166
+BoldWhite=#ffffff
+BoldYellow=#e3b341
+Black=#4d4d4d
+Blue=#6ca4f8
+Cyan=#2b7489
+Green=#56d364
+Magenta=#db61a2
+Red=#f78166
+White=#ffffff
+Yellow=#e3b341
+Yellow=#3b5070
+CursorColour=#c9d1d9

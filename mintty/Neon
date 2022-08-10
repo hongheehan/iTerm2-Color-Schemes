@@ -1,0 +1,23 @@
+# theme: Neon
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#00fffc
+BackgroundColour=#14161a
+BoldBlack=#000000
+BoldBlue=#0208cb
+BoldCyan=#00fffc
+BoldGreen=#5ffa74
+BoldMagenta=#f924e7
+BoldRed=#ff3045
+BoldWhite=#c7c7c7
+BoldYellow=#fffc7e
+Black=#686868
+Blue=#3c40cb
+Cyan=#88fffe
+Green=#75ff88
+Magenta=#f15be5
+Red=#ff5a5a
+White=#ffffff
+Yellow=#fffd96
+Yellow=#0013ff
+CursorColour=#c7c7c7

@@ -1,0 +1,23 @@
+# theme: Unikitty
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#0b0b0b
+BackgroundColour=#ff8cd9
+BoldBlack=#0c0c0c
+BoldBlue=#145fcd
+BoldCyan=#6bd1bc
+BoldGreen=#bafc8b
+BoldMagenta=#ff36a2
+BoldRed=#a80f20
+BoldWhite=#e2d7e1
+BoldYellow=#eedf4b
+Black=#434343
+Blue=#0075ea
+Cyan=#79ecd5
+Green=#d3ffaf
+Magenta=#fdd5e5
+Red=#d91329
+White=#fff3fe
+Yellow=#ffef50
+Yellow=#3ea9fe
+CursorColour=#bafc8b

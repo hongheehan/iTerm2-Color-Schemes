@@ -1,0 +1,23 @@
+# theme: Flat
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#2cc55d
+BackgroundColour=#002240
+BoldBlack=#222d3f
+BoldBlue=#3167ac
+BoldCyan=#2c9370
+BoldGreen=#32a548
+BoldMagenta=#781aa0
+BoldRed=#a82320
+BoldWhite=#b0b6ba
+BoldYellow=#e58d11
+Black=#212c3c
+Blue=#3c7dd2
+Cyan=#35b387
+Green=#2d9440
+Magenta=#8230a7
+Red=#d4312e
+White=#e7eced
+Yellow=#e5be0c
+Yellow=#792b9c
+CursorColour=#e5be0c

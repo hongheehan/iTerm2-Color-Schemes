@@ -1,0 +1,23 @@
+# theme: BlueBerryPie
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#babab9
+BackgroundColour=#1c0c28
+BoldBlack=#0a4c62
+BoldBlue=#90a5bd
+BoldCyan=#7e83cc
+BoldGreen=#5cb1b3
+BoldMagenta=#9d54a7
+BoldRed=#99246e
+BoldWhite=#f0e8d6
+BoldYellow=#eab9a8
+Black=#201637
+Blue=#39173d
+Cyan=#5e6071
+Green=#0a6c7e
+Magenta=#bc94b7
+Red=#c87272
+White=#0a6c7e
+Yellow=#7a3188
+Yellow=#606060
+CursorColour=#fcfad6

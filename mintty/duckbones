@@ -1,0 +1,23 @@
+# theme: duckbones
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ebefc0
+BackgroundColour=#0e101a
+BoldBlack=#0e101a
+BoldBlue=#00a3cb
+BoldCyan=#00a3cb
+BoldGreen=#5dcd97
+BoldMagenta=#795ccc
+BoldRed=#e03600
+BoldWhite=#ebefc0
+BoldYellow=#e39500
+Black=#2b2f46
+Blue=#00b4e0
+Cyan=#00b4e0
+Green=#58db9e
+Magenta=#b3a1e6
+Red=#ff4821
+White=#b3b692
+Yellow=#f6a100
+Yellow=#37382d
+CursorColour=#edf2c2

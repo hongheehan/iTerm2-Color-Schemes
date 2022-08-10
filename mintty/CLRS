@@ -1,0 +1,23 @@
+# theme: CLRS
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#262626
+BackgroundColour=#ffffff
+BoldBlack=#000000
+BoldBlue=#135cd0
+BoldCyan=#33c3c1
+BoldGreen=#328a5d
+BoldMagenta=#9f00bd
+BoldRed=#f8282a
+BoldWhite=#b3b3b3
+BoldYellow=#fa701d
+Black=#555753
+Blue=#1670ff
+Cyan=#3ad5ce
+Green=#2cc631
+Magenta=#e900b0
+Red=#fb0416
+White=#eeeeec
+Yellow=#fdd727
+Yellow=#6fd3fc
+CursorColour=#6fd3fc

@@ -1,0 +1,23 @@
+# theme: Solarized Darcula
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d2d8d9
+BackgroundColour=#3d3f41
+BoldBlack=#25292a
+BoldBlue=#2075c7
+BoldCyan=#15968d
+BoldGreen=#629655
+BoldMagenta=#797fd4
+BoldRed=#f24840
+BoldWhite=#d2d8d9
+BoldYellow=#b68800
+Black=#25292a
+Blue=#2075c7
+Cyan=#15968d
+Green=#629655
+Magenta=#797fd4
+Red=#f24840
+White=#d2d8d9
+Yellow=#b68800
+Yellow=#214283
+CursorColour=#708284

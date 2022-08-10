@@ -1,0 +1,23 @@
+# theme: zenburned
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f0e4cf
+BackgroundColour=#404040
+BoldBlack=#404040
+BoldBlue=#6099c0
+BoldCyan=#66a5ad
+BoldGreen=#819b69
+BoldMagenta=#b279a7
+BoldRed=#e3716e
+BoldWhite=#f0e4cf
+BoldYellow=#b77e64
+Black=#625a5b
+Blue=#61abda
+Cyan=#65b8c1
+Green=#8bae68
+Magenta=#cf86c1
+Red=#ec8685
+White=#c0ab86
+Yellow=#d68c67
+Yellow=#746956
+CursorColour=#f3eadb

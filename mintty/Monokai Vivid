@@ -1,0 +1,23 @@
+# theme: Monokai Vivid
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f9f9f9
+BackgroundColour=#121212
+BoldBlack=#121212
+BoldBlue=#0443ff
+BoldCyan=#01b6ed
+BoldGreen=#98e123
+BoldMagenta=#f800f8
+BoldRed=#fa2934
+BoldWhite=#ffffff
+BoldYellow=#fff30a
+Black=#838383
+Blue=#0443ff
+Cyan=#51ceff
+Green=#b1e05f
+Magenta=#f200f6
+Red=#f6669d
+White=#ffffff
+Yellow=#fff26d
+Yellow=#ffffff
+CursorColour=#fb0007

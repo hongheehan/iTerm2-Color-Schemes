@@ -1,0 +1,23 @@
+# theme: Medallion
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#cac296
+BackgroundColour=#1d1908
+BoldBlack=#000000
+BoldBlue=#616bb0
+BoldCyan=#916c25
+BoldGreen=#7c8b16
+BoldMagenta=#8c5a90
+BoldRed=#b64c00
+BoldWhite=#cac29a
+BoldYellow=#d3bd26
+Black=#5e5219
+Blue=#acb8ff
+Cyan=#ffbc51
+Green=#b2ca3b
+Magenta=#ffa0ff
+Red=#ff9149
+White=#fed698
+Yellow=#ffe54a
+Yellow=#626dac
+CursorColour=#d3ba30

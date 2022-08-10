@@ -1,0 +1,23 @@
+# theme: NightLion v2
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#bbbbbb
+BackgroundColour=#171717
+BoldBlack=#4c4c4c
+BoldBlue=#64d0f0
+BoldCyan=#00dadf
+BoldGreen=#04f623
+BoldMagenta=#ce6fdb
+BoldRed=#bb0000
+BoldWhite=#bbbbbb
+BoldYellow=#f3f167
+Black=#555555
+Blue=#62cbe8
+Cyan=#00ccd8
+Green=#7df71d
+Magenta=#ff9bf5
+Red=#ff5555
+White=#ffffff
+Yellow=#ffff55
+Yellow=#b5d5ff
+CursorColour=#bbbbbb

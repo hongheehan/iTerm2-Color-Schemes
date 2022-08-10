@@ -1,0 +1,23 @@
+# theme: Guezwhoz
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d0d0d0
+BackgroundColour=#1c1c1c
+BoldBlack=#080808
+BoldBlue=#5fafd7
+BoldCyan=#5fd7d7
+BoldGreen=#87d7af
+BoldMagenta=#afafff
+BoldRed=#ff5f5f
+BoldWhite=#dadada
+BoldYellow=#d7d787
+Black=#8a8a8a
+Blue=#87afd7
+Cyan=#87d7d7
+Green=#afd7af
+Magenta=#afafd7
+Red=#d75f5f
+White=#dadada
+Yellow=#d7d7af
+Yellow=#005f5f
+CursorColour=#eeeeee

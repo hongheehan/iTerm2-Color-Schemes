@@ -1,0 +1,23 @@
+# theme: Chalkboard
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d9e6f2
+BackgroundColour=#29262f
+BoldBlack=#000000
+BoldBlue=#7372c3
+BoldCyan=#72c2c3
+BoldGreen=#72c373
+BoldMagenta=#c372c2
+BoldRed=#c37372
+BoldWhite=#d9d9d9
+BoldYellow=#c2c372
+Black=#323232
+Blue=#aaaadb
+Cyan=#aadadb
+Green=#aadbaa
+Magenta=#dbaada
+Red=#dbaaaa
+White=#ffffff
+Yellow=#dadbaa
+Yellow=#073642
+CursorColour=#d9e6f2

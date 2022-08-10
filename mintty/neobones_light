@@ -1,0 +1,23 @@
+# theme: neobones_light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#202e18
+BackgroundColour=#e5ede6
+BoldBlack=#e5ede6
+BoldBlue=#286486
+BoldCyan=#3b8992
+BoldGreen=#567a30
+BoldMagenta=#88507d
+BoldRed=#a8334c
+BoldWhite=#202e18
+BoldYellow=#944927
+Black=#b3c6b6
+Blue=#1d5573
+Cyan=#2b747c
+Green=#3f5a22
+Magenta=#7b3b70
+Red=#94253e
+White=#415934
+Yellow=#803d1c
+Yellow=#ade48c
+CursorColour=#202e18

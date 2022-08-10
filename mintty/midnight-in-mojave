@@ -1,0 +1,23 @@
+# theme: midnight-in-mojave
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#1e1e1e
+BoldBlack=#1e1e1e
+BoldBlue=#0a84ff
+BoldCyan=#5ac8fa
+BoldGreen=#32d74b
+BoldMagenta=#bf5af2
+BoldRed=#ff453a
+BoldWhite=#ffffff
+BoldYellow=#ffd60a
+Black=#1e1e1e
+Blue=#0a84ff
+Cyan=#5ac8fa
+Green=#32d74b
+Magenta=#bf5af2
+Red=#ff453a
+White=#ffffff
+Yellow=#ffd60a
+Yellow=#4a504d
+CursorColour=#32d74b

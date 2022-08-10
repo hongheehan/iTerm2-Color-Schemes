@@ -1,0 +1,23 @@
+# theme: Hopscotch.256
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b9b5b8
+BackgroundColour=#322931
+BoldBlack=#322931
+BoldBlue=#1290bf
+BoldCyan=#149b93
+BoldGreen=#8fc13e
+BoldMagenta=#c85e7c
+BoldRed=#dd464c
+BoldWhite=#b9b5b8
+BoldYellow=#fdcc59
+Black=#797379
+Blue=#1290bf
+Cyan=#149b93
+Green=#8fc13e
+Magenta=#c85e7c
+Red=#dd464c
+White=#ffffff
+Yellow=#fdcc59
+Yellow=#5c545b
+CursorColour=#b9b5b8

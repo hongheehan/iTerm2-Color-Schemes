@@ -1,0 +1,23 @@
+# theme: Popping and Locking
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ebdbb2
+BackgroundColour=#181921
+BoldBlack=#1d2021
+BoldBlue=#458588
+BoldCyan=#689d6a
+BoldGreen=#98971a
+BoldMagenta=#b16286
+BoldRed=#cc241d
+BoldWhite=#a89984
+BoldYellow=#d79921
+Black=#928374
+Blue=#99c6ca
+Cyan=#7ec16e
+Green=#b8bb26
+Magenta=#d3869b
+Red=#f42c3e
+White=#ebdbb2
+Yellow=#fabd2f
+Yellow=#ebdbb2
+CursorColour=#c7c7c7

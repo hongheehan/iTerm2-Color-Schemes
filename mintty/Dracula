@@ -1,0 +1,23 @@
+# theme: Dracula
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f8f8f2
+BackgroundColour=#1e1f29
+BoldBlack=#000000
+BoldBlue=#bd93f9
+BoldCyan=#8be9fd
+BoldGreen=#50fa7b
+BoldMagenta=#ff79c6
+BoldRed=#ff5555
+BoldWhite=#bbbbbb
+BoldYellow=#f1fa8c
+Black=#555555
+Blue=#bd93f9
+Cyan=#8be9fd
+Green=#50fa7b
+Magenta=#ff79c6
+Red=#ff5555
+White=#ffffff
+Yellow=#f1fa8c
+Yellow=#44475a
+CursorColour=#bbbbbb

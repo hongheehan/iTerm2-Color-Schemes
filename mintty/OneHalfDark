@@ -1,0 +1,23 @@
+# theme: OneHalfDark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dcdfe4
+BackgroundColour=#282c34
+BoldBlack=#282c34
+BoldBlue=#61afef
+BoldCyan=#56b6c2
+BoldGreen=#98c379
+BoldMagenta=#c678dd
+BoldRed=#e06c75
+BoldWhite=#dcdfe4
+BoldYellow=#e5c07b
+Black=#282c34
+Blue=#61afef
+Cyan=#56b6c2
+Green=#98c379
+Magenta=#c678dd
+Red=#e06c75
+White=#dcdfe4
+Yellow=#e5c07b
+Yellow=#474e5d
+CursorColour=#a3b3cc

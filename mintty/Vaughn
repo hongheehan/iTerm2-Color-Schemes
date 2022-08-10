@@ -1,0 +1,23 @@
+# theme: Vaughn
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dcdccc
+BackgroundColour=#25234f
+BoldBlack=#25234f
+BoldBlue=#5555ff
+BoldCyan=#8cd0d3
+BoldGreen=#60b48a
+BoldMagenta=#f08cc3
+BoldRed=#705050
+BoldWhite=#709080
+BoldYellow=#dfaf8f
+Black=#709080
+Blue=#5555ff
+Cyan=#93e0e3
+Green=#60b48a
+Magenta=#ec93d3
+Red=#dca3a3
+White=#ffffff
+Yellow=#f0dfaf
+Yellow=#b5d5ff
+CursorColour=#ff5555

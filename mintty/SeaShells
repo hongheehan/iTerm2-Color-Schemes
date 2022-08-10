@@ -1,0 +1,23 @@
+# theme: SeaShells
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#deb88d
+BackgroundColour=#09141b
+BoldBlack=#17384c
+BoldBlue=#1e4950
+BoldCyan=#50a3b5
+BoldGreen=#027c9b
+BoldMagenta=#68d4f1
+BoldRed=#d15123
+BoldWhite=#deb88d
+BoldYellow=#fca02f
+Black=#434b53
+Blue=#1bbcdd
+Cyan=#87acb4
+Green=#628d98
+Magenta=#bbe3ee
+Red=#d48678
+White=#fee4ce
+Yellow=#fdd39f
+Yellow=#1e4962
+CursorColour=#fca02f

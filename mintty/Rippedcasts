@@ -1,0 +1,23 @@
+# theme: Rippedcasts
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#2b2b2b
+BoldBlack=#000000
+BoldBlue=#75a5b0
+BoldCyan=#5a647e
+BoldGreen=#a8ff60
+BoldMagenta=#ff73fd
+BoldRed=#cdaf95
+BoldWhite=#bfbfbf
+BoldYellow=#bfbb1f
+Black=#666666
+Blue=#86bdc9
+Cyan=#8c9bc4
+Green=#bcee68
+Magenta=#e500e5
+Red=#eecbad
+White=#e5e5e5
+Yellow=#e5e500
+Yellow=#5a647e
+CursorColour=#7f7f7f

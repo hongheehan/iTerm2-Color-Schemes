@@ -1,0 +1,23 @@
+# theme: Mirage
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#a6b2c0
+BackgroundColour=#1b2738
+BoldBlack=#011627
+BoldBlue=#7fb5ff
+BoldCyan=#21c7a8
+BoldGreen=#85cc95
+BoldMagenta=#ddb3ff
+BoldRed=#ff9999
+BoldWhite=#ffffff
+BoldYellow=#ffd700
+Black=#575656
+Blue=#7fb5ff
+Cyan=#85cc95
+Green=#85cc95
+Magenta=#ddb3ff
+Red=#ff9999
+White=#ffffff
+Yellow=#ffd700
+Yellow=#273951
+CursorColour=#ddb3ff

@@ -1,0 +1,23 @@
+# theme: Cobalt Neon
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#8ff586
+BackgroundColour=#142838
+BoldBlack=#142631
+BoldBlue=#8ff586
+BoldCyan=#8ff586
+BoldGreen=#3ba5ff
+BoldMagenta=#781aa0
+BoldRed=#ff2320
+BoldWhite=#ba46b2
+BoldYellow=#e9e75c
+Black=#fff688
+Blue=#3c7dd2
+Cyan=#6cbc67
+Green=#8ff586
+Magenta=#8230a7
+Red=#d4312e
+White=#8ff586
+Yellow=#e9f06d
+Yellow=#094fb1
+CursorColour=#c4206f

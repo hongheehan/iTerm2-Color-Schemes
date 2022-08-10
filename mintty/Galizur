@@ -1,0 +1,23 @@
+# theme: Galizur
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ddeeff
+BackgroundColour=#071317
+BoldBlack=#223344
+BoldBlue=#2255cc
+BoldCyan=#22bbdd
+BoldGreen=#33aa11
+BoldMagenta=#7755aa
+BoldRed=#aa1122
+BoldWhite=#8899aa
+BoldYellow=#ccaa22
+Black=#556677
+Blue=#3377ff
+Cyan=#33ddff
+Green=#33ff11
+Magenta=#aa77ff
+Red=#ff1133
+White=#bbccdd
+Yellow=#ffdd33
+Yellow=#071317
+CursorColour=#ddeeff

@@ -1,0 +1,23 @@
+# theme: PaulMillr
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f2f2f2
+BackgroundColour=#000000
+BoldBlack=#2a2a2a
+BoldBlue=#396bd7
+BoldCyan=#66ccff
+BoldGreen=#79ff0f
+BoldMagenta=#b449be
+BoldRed=#ff0000
+BoldWhite=#bbbbbb
+BoldYellow=#e7bf00
+Black=#666666
+Blue=#709aed
+Cyan=#7adff2
+Green=#66ff66
+Magenta=#db67e6
+Red=#ff0080
+White=#ffffff
+Yellow=#f3d64e
+Yellow=#414141
+CursorColour=#4d4d4d

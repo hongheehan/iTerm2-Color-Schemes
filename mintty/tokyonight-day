@@ -1,0 +1,23 @@
+# theme: tokyonight-day
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#3760bf
+BackgroundColour=#e1e2e7
+BoldBlack=#e9e9ed
+BoldBlue=#2e7de9
+BoldCyan=#007197
+BoldGreen=#587539
+BoldMagenta=#9854f1
+BoldRed=#f52a65
+BoldWhite=#6172b0
+BoldYellow=#8c6c3e
+Black=#a1a6c5
+Blue=#2e7de9
+Cyan=#007197
+Green=#587539
+Magenta=#9854f1
+Red=#f52a65
+White=#3760bf
+Yellow=#8c6c3e
+Yellow=#99a7df
+CursorColour=#3760bf

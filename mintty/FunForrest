@@ -1,0 +1,23 @@
+# theme: FunForrest
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dec165
+BackgroundColour=#251200
+BoldBlack=#000000
+BoldBlue=#4699a3
+BoldCyan=#da8213
+BoldGreen=#919c00
+BoldMagenta=#8d4331
+BoldRed=#d6262b
+BoldWhite=#ddc265
+BoldYellow=#be8a13
+Black=#7f6a55
+Blue=#7cc9cf
+Cyan=#e6a96b
+Green=#bfc65a
+Magenta=#d26349
+Red=#e55a1c
+White=#ffeaa3
+Yellow=#ffcb1b
+Yellow=#e5591c
+CursorColour=#e5591c

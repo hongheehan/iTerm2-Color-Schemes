@@ -1,0 +1,23 @@
+# theme: Gruvbox Light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#282828
+BackgroundColour=#fbf1c7
+BoldBlack=#fbf1c7
+BoldBlue=#076678
+BoldCyan=#427b58
+BoldGreen=#79740e
+BoldMagenta=#8f3f71
+BoldRed=#9d0006
+BoldWhite=#3c3836
+BoldYellow=#b57614
+Black=#9d8374
+Blue=#458588
+Cyan=#689d69
+Green=#98971a
+Magenta=#b16186
+Red=#cc241d
+White=#7c6f64
+Yellow=#d79921
+Yellow=#d5c4a1
+CursorColour=#282828

@@ -1,0 +1,23 @@
+# theme: Slate
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#35b1d2
+BackgroundColour=#222222
+BoldBlack=#222222
+BoldBlue=#264b49
+BoldCyan=#15ab9c
+BoldGreen=#81d778
+BoldMagenta=#a481d3
+BoldRed=#e2a8bf
+BoldWhite=#02c5e0
+BoldYellow=#c4c9c0
+Black=#ffffff
+Blue=#7ab0d2
+Cyan=#8cdfe0
+Green=#beffa8
+Magenta=#c5a7d9
+Red=#ffcdd9
+White=#e0e0e0
+Yellow=#d0ccca
+Yellow=#0f3754
+CursorColour=#87d3c4

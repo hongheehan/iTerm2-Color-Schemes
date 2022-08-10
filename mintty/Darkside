@@ -1,0 +1,23 @@
+# theme: Darkside
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#bababa
+BackgroundColour=#222324
+BoldBlack=#000000
+BoldBlue=#1c98e8
+BoldCyan=#1c98e8
+BoldGreen=#68c256
+BoldMagenta=#8e69c9
+BoldRed=#e8341c
+BoldWhite=#bababa
+BoldYellow=#f2d42c
+Black=#000000
+Blue=#387cd3
+Cyan=#3d97e2
+Green=#77b869
+Magenta=#957bbe
+Red=#e05a4f
+White=#bababa
+Yellow=#efd64b
+Yellow=#303333
+CursorColour=#bbbbbb

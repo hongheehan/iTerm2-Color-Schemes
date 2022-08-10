@@ -1,0 +1,23 @@
+# theme: CrayonPonyFish
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#68525a
+BackgroundColour=#150707
+BoldBlack=#2b1b1d
+BoldBlue=#8c87b0
+BoldCyan=#e8a866
+BoldGreen=#579524
+BoldMagenta=#692f50
+BoldRed=#91002b
+BoldWhite=#68525a
+BoldYellow=#ab311b
+Black=#3d2b2e
+Blue=#cfc9ff
+Cyan=#ffceaf
+Green=#8dff57
+Magenta=#fc6cba
+Red=#c5255d
+White=#b0949d
+Yellow=#c8381d
+Yellow=#2b1b1d
+CursorColour=#68525a

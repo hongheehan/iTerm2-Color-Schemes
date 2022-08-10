@@ -1,0 +1,23 @@
+# theme: iceberg-light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#33374c
+BackgroundColour=#e8e9ec
+BoldBlack=#dcdfe7
+BoldBlue=#2d539e
+BoldCyan=#3f83a6
+BoldGreen=#668e3d
+BoldMagenta=#7759b4
+BoldRed=#cc517a
+BoldWhite=#33374c
+BoldYellow=#c57339
+Black=#8389a3
+Blue=#22478e
+Cyan=#327698
+Green=#598030
+Magenta=#6845ad
+Red=#cc3768
+White=#262a3f
+Yellow=#b6662d
+Yellow=#33374c
+CursorColour=#33374c

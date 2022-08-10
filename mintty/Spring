@@ -1,0 +1,23 @@
+# theme: Spring
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#4d4d4c
+BackgroundColour=#ffffff
+BoldBlack=#000000
+BoldBlue=#1dd3ee
+BoldCyan=#3e999f
+BoldGreen=#1f8c3b
+BoldMagenta=#8959a8
+BoldRed=#ff4d83
+BoldWhite=#ffffff
+BoldYellow=#1fc95b
+Black=#000000
+Blue=#15a9fd
+Cyan=#3e999f
+Green=#1fc231
+Magenta=#8959a8
+Red=#ff0021
+White=#ffffff
+Yellow=#d5b807
+Yellow=#d6d6d6
+CursorColour=#4d4d4c

@@ -1,0 +1,23 @@
+# theme: Man Page
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#000000
+BackgroundColour=#fef49c
+BoldBlack=#000000
+BoldBlue=#0000b2
+BoldCyan=#00a6b2
+BoldGreen=#00a600
+BoldMagenta=#b200b2
+BoldRed=#cc0000
+BoldWhite=#cccccc
+BoldYellow=#999900
+Black=#666666
+Blue=#0000ff
+Cyan=#00e5e5
+Green=#00d900
+Magenta=#e500e5
+Red=#e50000
+White=#e5e5e5
+Yellow=#e5e500
+Yellow=#a4c9cd
+CursorColour=#7f7f7f

@@ -1,0 +1,23 @@
+# theme: Gruvbox Dark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e6d4a3
+BackgroundColour=#1e1e1e
+BoldBlack=#1e1e1e
+BoldBlue=#377375
+BoldCyan=#578e57
+BoldGreen=#868715
+BoldMagenta=#a04b73
+BoldRed=#be0f17
+BoldWhite=#978771
+BoldYellow=#cc881a
+Black=#7f7061
+Blue=#719586
+Cyan=#7db669
+Green=#aab01e
+Magenta=#c77089
+Red=#f73028
+White=#e6d4a3
+Yellow=#f7b125
+Yellow=#e6d4a3
+CursorColour=#e6d4a3

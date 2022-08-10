@@ -1,0 +1,23 @@
+# theme: Ryuuko
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ececec
+BackgroundColour=#2c3941
+BoldBlack=#2c3941
+BoldBlue=#6a8e95
+BoldCyan=#88b2ac
+BoldGreen=#66907d
+BoldMagenta=#b18a73
+BoldRed=#865f5b
+BoldWhite=#ececec
+BoldYellow=#b1a990
+Black=#5d7079
+Blue=#6a8e95
+Cyan=#88b2ac
+Green=#66907d
+Magenta=#b18a73
+Red=#865f5b
+White=#ececec
+Yellow=#b1a990
+Yellow=#002831
+CursorColour=#ececec

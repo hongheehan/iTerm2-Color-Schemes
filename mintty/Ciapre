@@ -1,0 +1,23 @@
+# theme: Ciapre
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#aea47a
+BackgroundColour=#191c27
+BoldBlack=#181818
+BoldBlue=#576d8c
+BoldCyan=#5c4f4b
+BoldGreen=#48513b
+BoldMagenta=#724d7c
+BoldRed=#810009
+BoldWhite=#aea47f
+BoldYellow=#cc8b3f
+Black=#555555
+Blue=#3097c6
+Cyan=#f3dbb2
+Green=#a6a75d
+Magenta=#d33061
+Red=#ac3835
+White=#f4f4f4
+Yellow=#dcdf7c
+Yellow=#172539
+CursorColour=#92805b

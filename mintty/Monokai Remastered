@@ -1,0 +1,23 @@
+# theme: Monokai Remastered
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d9d9d9
+BackgroundColour=#0c0c0c
+BoldBlack=#1a1a1a
+BoldBlue=#9d65ff
+BoldCyan=#58d1eb
+BoldGreen=#98e024
+BoldMagenta=#f4005f
+BoldRed=#f4005f
+BoldWhite=#c4c5b5
+BoldYellow=#fd971f
+Black=#625e4c
+Blue=#9d65ff
+Cyan=#58d1eb
+Green=#98e024
+Magenta=#f4005f
+Red=#f4005f
+White=#f6f6ef
+Yellow=#e0d561
+Yellow=#343434
+CursorColour=#fc971f

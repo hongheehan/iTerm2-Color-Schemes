@@ -1,0 +1,23 @@
+# theme: Hardcore
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#a0a0a0
+BackgroundColour=#121212
+BoldBlack=#1b1d1e
+BoldBlue=#66d9ef
+BoldCyan=#5e7175
+BoldGreen=#a6e22e
+BoldMagenta=#9e6ffe
+BoldRed=#f92672
+BoldWhite=#ccccc6
+BoldYellow=#fd971f
+Black=#505354
+Blue=#66d9ef
+Cyan=#a3babf
+Green=#beed5f
+Magenta=#9e6ffe
+Red=#ff669d
+White=#f8f8f2
+Yellow=#e6db74
+Yellow=#453b39
+CursorColour=#bbbbbb

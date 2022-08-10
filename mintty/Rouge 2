@@ -1,0 +1,23 @@
+# theme: Rouge 2
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#a2a3aa
+BackgroundColour=#17182b
+BoldBlack=#5d5d6b
+BoldBlue=#6e94b9
+BoldCyan=#8ab6c1
+BoldGreen=#969e92
+BoldMagenta=#4c4e78
+BoldRed=#c6797e
+BoldWhite=#e8e8ea
+BoldYellow=#dbcdab
+Black=#616274
+Blue=#98b3cd
+Cyan=#abcbd3
+Green=#e6dcc4
+Magenta=#8283a1
+Red=#c6797e
+White=#e8e8ea
+Yellow=#e6dcc4
+Yellow=#5d5d6b
+CursorColour=#969e92

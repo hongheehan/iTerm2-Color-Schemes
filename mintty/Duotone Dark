@@ -1,0 +1,23 @@
+# theme: Duotone Dark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b7a1ff
+BackgroundColour=#1f1d27
+BoldBlack=#1f1d27
+BoldBlue=#ffc284
+BoldCyan=#2488ff
+BoldGreen=#2dcd73
+BoldMagenta=#de8d40
+BoldRed=#d9393e
+BoldWhite=#b7a1ff
+BoldYellow=#d9b76e
+Black=#353147
+Blue=#ffc284
+Cyan=#2488ff
+Green=#2dcd73
+Magenta=#de8d40
+Red=#d9393e
+White=#eae5ff
+Yellow=#d9b76e
+Yellow=#353147
+CursorColour=#ff9839

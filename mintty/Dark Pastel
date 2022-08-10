@@ -1,0 +1,23 @@
+# theme: Dark Pastel
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#5555ff
+BoldCyan=#55ffff
+BoldGreen=#55ff55
+BoldMagenta=#ff55ff
+BoldRed=#ff5555
+BoldWhite=#bbbbbb
+BoldYellow=#ffff55
+Black=#555555
+Blue=#5555ff
+Cyan=#55ffff
+Green=#55ff55
+Magenta=#ff55ff
+Red=#ff5555
+White=#ffffff
+Yellow=#ffff55
+Yellow=#b5d5ff
+CursorColour=#bbbbbb

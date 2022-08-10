@@ -1,0 +1,23 @@
+# theme: Espresso
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#323232
+BoldBlack=#353535
+BoldBlue=#6c99bb
+BoldCyan=#bed6ff
+BoldGreen=#a5c261
+BoldMagenta=#d197d9
+BoldRed=#d25252
+BoldWhite=#eeeeec
+BoldYellow=#ffc66d
+Black=#535353
+Blue=#8ab7d9
+Cyan=#dcf4ff
+Green=#c2e075
+Magenta=#efb5f7
+Red=#f00c0c
+White=#ffffff
+Yellow=#e1e48b
+Yellow=#5b5b5b
+CursorColour=#d6d6d6

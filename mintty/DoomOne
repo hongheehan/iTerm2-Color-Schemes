@@ -1,0 +1,23 @@
+# theme: DoomOne
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#bbc2cf
+BackgroundColour=#282c34
+BoldBlack=#000000
+BoldBlue=#a9a1e1
+BoldCyan=#51afef
+BoldGreen=#98be65
+BoldMagenta=#c678dd
+BoldRed=#ff6c6b
+BoldWhite=#bbc2cf
+BoldYellow=#ecbe7b
+Black=#000000
+Blue=#a9a1e1
+Cyan=#51afef
+Green=#99bb66
+Magenta=#c678dd
+Red=#ff6655
+White=#bfbfbf
+Yellow=#ecbe7b
+Yellow=#42444b
+CursorColour=#51afef

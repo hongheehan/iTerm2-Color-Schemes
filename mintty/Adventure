@@ -1,0 +1,23 @@
+# theme: Adventure
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#feffff
+BackgroundColour=#040404
+BoldBlack=#040404
+BoldBlue=#417ab3
+BoldCyan=#bdcfe5
+BoldGreen=#5da602
+BoldMagenta=#e5c499
+BoldRed=#d84a33
+BoldWhite=#dbded8
+BoldYellow=#eebb6e
+Black=#685656
+Blue=#97d7ef
+Cyan=#bdcfe5
+Green=#99b52c
+Magenta=#aa7900
+Red=#d76b42
+White=#e4d5c7
+Yellow=#ffb670
+Yellow=#606060
+CursorColour=#feffff

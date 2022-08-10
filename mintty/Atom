@@ -1,0 +1,23 @@
+# theme: Atom
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c5c8c6
+BackgroundColour=#161719
+BoldBlack=#000000
+BoldBlue=#85befd
+BoldCyan=#85befd
+BoldGreen=#87c38a
+BoldMagenta=#b9b6fc
+BoldRed=#fd5ff1
+BoldWhite=#e0e0e0
+BoldYellow=#ffd7b1
+Black=#000000
+Blue=#96cbfe
+Cyan=#85befd
+Green=#94fa36
+Magenta=#b9b6fc
+Red=#fd5ff1
+White=#e0e0e0
+Yellow=#f5ffa8
+Yellow=#444444
+CursorColour=#d0d0d0

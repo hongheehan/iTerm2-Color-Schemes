@@ -1,0 +1,23 @@
+# theme: Tomorrow Night Burns
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#a1b0b8
+BackgroundColour=#151515
+BoldBlack=#252525
+BoldBlue=#fc595f
+BoldCyan=#ba8586
+BoldGreen=#a63c40
+BoldMagenta=#df9395
+BoldRed=#832e31
+BoldWhite=#f5f5f5
+BoldYellow=#d3494e
+Black=#5d6f71
+Blue=#fc595f
+Cyan=#ba8586
+Green=#a63c40
+Magenta=#df9395
+Red=#832e31
+White=#f5f5f5
+Yellow=#d2494e
+Yellow=#b0bec5
+CursorColour=#ff443e

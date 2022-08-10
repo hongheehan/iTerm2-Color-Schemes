@@ -1,0 +1,23 @@
+# theme: Builtin Dark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#bbbbbb
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#0000bb
+BoldCyan=#00bbbb
+BoldGreen=#00bb00
+BoldMagenta=#bb00bb
+BoldRed=#bb0000
+BoldWhite=#bbbbbb
+BoldYellow=#bbbb00
+Black=#555555
+Blue=#5555ff
+Cyan=#55ffff
+Green=#55ff55
+Magenta=#ff55ff
+Red=#ff5555
+White=#ffffff
+Yellow=#ffff55
+Yellow=#b5d5ff
+CursorColour=#bbbbbb

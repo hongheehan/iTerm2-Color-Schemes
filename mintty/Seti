@@ -1,0 +1,23 @@
+# theme: Seti
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#cacecd
+BackgroundColour=#111213
+BoldBlack=#323232
+BoldBlue=#43a5d5
+BoldCyan=#8ec43d
+BoldGreen=#8ec43d
+BoldMagenta=#8b57b5
+BoldRed=#c22832
+BoldWhite=#eeeeee
+BoldYellow=#e0c64f
+Black=#323232
+Blue=#43a5d5
+Cyan=#8ec43d
+Green=#8ec43d
+Magenta=#8b57b5
+Red=#c22832
+White=#ffffff
+Yellow=#e0c64f
+Yellow=#303233
+CursorColour=#e3bf21

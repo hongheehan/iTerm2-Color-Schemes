@@ -1,0 +1,23 @@
+# theme: Belafonte Night
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#968c83
+BackgroundColour=#20111b
+BoldBlack=#20111b
+BoldBlue=#426a79
+BoldCyan=#989a9c
+BoldGreen=#858162
+BoldMagenta=#97522c
+BoldRed=#be100e
+BoldWhite=#968c83
+BoldYellow=#eaa549
+Black=#5e5252
+Blue=#426a79
+Cyan=#989a9c
+Green=#858162
+Magenta=#97522c
+Red=#be100e
+White=#d5ccba
+Yellow=#eaa549
+Yellow=#45373c
+CursorColour=#968c83

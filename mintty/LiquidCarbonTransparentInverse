@@ -1,0 +1,23 @@
+# theme: LiquidCarbonTransparentInverse
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#afc2c2
+BackgroundColour=#000000
+BoldBlack=#bccccd
+BoldBlue=#0099cc
+BoldCyan=#7ac4cc
+BoldGreen=#559a70
+BoldMagenta=#cc69c8
+BoldRed=#ff3030
+BoldWhite=#000000
+BoldYellow=#ccac00
+Black=#ffffff
+Blue=#0099cc
+Cyan=#7ac4cc
+Green=#559a70
+Magenta=#cc69c8
+Red=#ff3030
+White=#000000
+Yellow=#ccac00
+Yellow=#7dbeff
+CursorColour=#ffffff

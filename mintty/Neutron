@@ -1,0 +1,23 @@
+# theme: Neutron
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e6e8ef
+BackgroundColour=#1c1e22
+BoldBlack=#23252b
+BoldBlue=#6a7c93
+BoldCyan=#3f94a8
+BoldGreen=#5ab977
+BoldMagenta=#a4799d
+BoldRed=#b54036
+BoldWhite=#e6e8ef
+BoldYellow=#deb566
+Black=#23252b
+Blue=#6a7c93
+Cyan=#3f94a8
+Green=#5ab977
+Magenta=#a4799d
+Red=#b54036
+White=#ebedf2
+Yellow=#deb566
+Yellow=#2f363e
+CursorColour=#f6f7ec

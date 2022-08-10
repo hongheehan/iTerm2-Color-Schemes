@@ -1,0 +1,23 @@
+# theme: Novel
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#3b2322
+BackgroundColour=#dfdbc3
+BoldBlack=#000000
+BoldBlue=#0000cc
+BoldCyan=#0087cc
+BoldGreen=#009600
+BoldMagenta=#cc00cc
+BoldRed=#cc0000
+BoldWhite=#cccccc
+BoldYellow=#d06b00
+Black=#808080
+Blue=#0000cc
+Cyan=#0087cc
+Green=#009600
+Magenta=#cc00cc
+Red=#cc0000
+White=#ffffff
+Yellow=#d06b00
+Yellow=#a4a390
+CursorColour=#73635a

@@ -1,0 +1,23 @@
+# theme: Espresso Libre
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b8a898
+BackgroundColour=#2a211c
+BoldBlack=#000000
+BoldBlue=#0066ff
+BoldCyan=#06989a
+BoldGreen=#1a921c
+BoldMagenta=#c5656b
+BoldRed=#cc0000
+BoldWhite=#d3d7cf
+BoldYellow=#f0e53a
+Black=#555753
+Blue=#43a8ed
+Cyan=#34e2e2
+Green=#9aff87
+Magenta=#ff818a
+Red=#ef2929
+White=#eeeeec
+Yellow=#fffb5c
+Yellow=#c3dcff
+CursorColour=#ffffff

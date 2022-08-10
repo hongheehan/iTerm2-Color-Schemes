@@ -1,0 +1,23 @@
+# theme: tokyonight-storm
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c0caf5
+BackgroundColour=#24283b
+BoldBlack=#1d202f
+BoldBlue=#7aa2f7
+BoldCyan=#7dcfff
+BoldGreen=#9ece6a
+BoldMagenta=#bb9af7
+BoldRed=#f7768e
+BoldWhite=#a9b1d6
+BoldYellow=#e0af68
+Black=#414868
+Blue=#7aa2f7
+Cyan=#7dcfff
+Green=#9ece6a
+Magenta=#bb9af7
+Red=#f7768e
+White=#c0caf5
+Yellow=#e0af68
+Yellow=#364a82
+CursorColour=#c0caf5

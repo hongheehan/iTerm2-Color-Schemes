@@ -1,0 +1,23 @@
+# theme: ENCOM
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#00a595
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#0081ff
+BoldCyan=#008b8b
+BoldGreen=#008b00
+BoldMagenta=#bc00ca
+BoldRed=#9f0000
+BoldWhite=#bbbbbb
+BoldYellow=#ffd000
+Black=#555555
+Blue=#0000ff
+Cyan=#00cdcd
+Green=#00ee00
+Magenta=#ff00ff
+Red=#ff0000
+White=#ffffff
+Yellow=#ffff00
+Yellow=#00a48c
+CursorColour=#bbbbbb

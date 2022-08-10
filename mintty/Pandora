@@ -1,0 +1,23 @@
+# theme: Pandora
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e1e1e1
+BackgroundColour=#141e43
+BoldBlack=#000000
+BoldBlue=#338f86
+BoldCyan=#23d7d7
+BoldGreen=#74af68
+BoldMagenta=#9414e6
+BoldRed=#ff4242
+BoldWhite=#e2e2e2
+BoldYellow=#ffad29
+Black=#3f5648
+Blue=#23d7d7
+Cyan=#00ede1
+Green=#74cd68
+Magenta=#ff37ff
+Red=#ff3242
+White=#ffffff
+Yellow=#ffb929
+Yellow=#2d37ff
+CursorColour=#43d58e

@@ -1,0 +1,23 @@
+# theme: FrontEndDelight
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#adadad
+BackgroundColour=#1b1c1d
+BoldBlack=#242526
+BoldBlue=#2c70b7
+BoldCyan=#3ca1a6
+BoldGreen=#565747
+BoldMagenta=#f02e4f
+BoldRed=#f8511b
+BoldWhite=#adadad
+BoldYellow=#fa771d
+Black=#5fac6d
+Blue=#3393ca
+Cyan=#4fbce6
+Green=#74ec4c
+Magenta=#e75e4f
+Red=#f74319
+White=#8c735b
+Yellow=#fdc325
+Yellow=#ea6154
+CursorColour=#cdcdcd

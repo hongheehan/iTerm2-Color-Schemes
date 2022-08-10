@@ -1,0 +1,23 @@
+# theme: Treehouse
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#786b53
+BackgroundColour=#191919
+BoldBlack=#321300
+BoldBlue=#58859a
+BoldCyan=#b25a1e
+BoldGreen=#44a900
+BoldMagenta=#97363d
+BoldRed=#b2270e
+BoldWhite=#786b53
+BoldYellow=#aa820c
+Black=#433626
+Blue=#85cfed
+Cyan=#f07d14
+Green=#55f238
+Magenta=#e14c5a
+Red=#ed5d20
+White=#ffc800
+Yellow=#f2b732
+Yellow=#786b53
+CursorColour=#fac814

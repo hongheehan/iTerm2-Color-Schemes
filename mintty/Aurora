@@ -1,0 +1,23 @@
+# theme: Aurora
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffca28
+BackgroundColour=#23262e
+BoldBlack=#23262e
+BoldBlue=#0321d7
+BoldCyan=#03d6b8
+BoldGreen=#8fd46d
+BoldMagenta=#ee5d43
+BoldRed=#f0266f
+BoldWhite=#c74ded
+BoldYellow=#ffe66d
+Black=#292e38
+Blue=#03d6b8
+Cyan=#03d6b8
+Green=#8fd46d
+Magenta=#ee5d43
+Red=#f92672
+White=#c74ded
+Yellow=#ffe66d
+Yellow=#292e38
+CursorColour=#ee5d43

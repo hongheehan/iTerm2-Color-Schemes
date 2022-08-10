@@ -1,0 +1,23 @@
+# theme: SleepyHollow
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#af9a91
+BackgroundColour=#121214
+BoldBlack=#572100
+BoldBlue=#5f63b4
+BoldCyan=#8faea9
+BoldGreen=#91773f
+BoldMagenta=#a17c7b
+BoldRed=#ba3934
+BoldWhite=#af9a91
+BoldYellow=#b55600
+Black=#4e4b61
+Blue=#8086ef
+Cyan=#a4dce7
+Green=#d6b04e
+Magenta=#e2c2bb
+Red=#d9443f
+White=#d2c7a9
+Yellow=#f66813
+Yellow=#575256
+CursorColour=#af9a91

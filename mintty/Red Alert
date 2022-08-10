@@ -1,0 +1,23 @@
+# theme: Red Alert
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#762423
+BoldBlack=#000000
+BoldBlue=#489bee
+BoldCyan=#6bbeb8
+BoldGreen=#71be6b
+BoldMagenta=#e979d7
+BoldRed=#d62e4e
+BoldWhite=#d6d6d6
+BoldYellow=#beb86b
+Black=#262626
+Blue=#65aaf1
+Cyan=#b7dfdd
+Green=#aff08c
+Magenta=#ddb7df
+Red=#e02553
+White=#ffffff
+Yellow=#dfddb7
+Yellow=#073642
+CursorColour=#ffffff

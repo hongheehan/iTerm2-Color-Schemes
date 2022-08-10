@@ -1,0 +1,23 @@
+# theme: darkermatrix
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#28380d
+BackgroundColour=#070c0e
+BoldBlack=#091013
+BoldBlue=#00cb6b
+BoldCyan=#125459
+BoldGreen=#6fa64c
+BoldMagenta=#412a4d
+BoldRed=#002e18
+BoldWhite=#002e19
+BoldYellow=#595900
+Black=#333333
+Blue=#00ff87
+Cyan=#176c73
+Green=#90d762
+Magenta=#412a4d
+Red=#00381d
+White=#00381e
+Yellow=#e2e500
+Yellow=#0f191c
+CursorColour=#373a26

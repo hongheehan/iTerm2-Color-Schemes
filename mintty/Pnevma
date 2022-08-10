@@ -1,0 +1,23 @@
+# theme: Pnevma
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#d0d0d0
+BackgroundColour=#1c1c1c
+BoldBlack=#2f2e2d
+BoldBlue=#7fa5bd
+BoldCyan=#8adbb4
+BoldGreen=#90a57d
+BoldMagenta=#c79ec4
+BoldRed=#a36666
+BoldWhite=#d0d0d0
+BoldYellow=#d7af87
+Black=#4a4845
+Blue=#a1bdce
+Cyan=#b1e7dd
+Green=#afbea2
+Magenta=#d7beda
+Red=#d78787
+White=#efefef
+Yellow=#e4c9af
+Yellow=#4d4d4d
+CursorColour=#e4c9af

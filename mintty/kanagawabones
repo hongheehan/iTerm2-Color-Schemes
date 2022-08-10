@@ -1,0 +1,23 @@
+# theme: kanagawabones
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ddd8bb
+BackgroundColour=#1f1f28
+BoldBlack=#1f1f28
+BoldBlue=#7eb3c9
+BoldCyan=#7eb3c9
+BoldGreen=#98bc6d
+BoldMagenta=#957fb8
+BoldRed=#e46a78
+BoldWhite=#ddd8bb
+BoldYellow=#e5c283
+Black=#3c3c51
+Blue=#7bc2df
+Cyan=#7bc2df
+Green=#9ec967
+Magenta=#a98fd2
+Red=#ec818c
+White=#a8a48d
+Yellow=#f1c982
+Yellow=#49473e
+CursorColour=#e6e0c2

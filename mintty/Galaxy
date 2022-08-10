@@ -1,0 +1,23 @@
+# theme: Galaxy
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#1d2837
+BoldBlack=#000000
+BoldBlue=#589df6
+BoldCyan=#1f9ee7
+BoldGreen=#21b089
+BoldMagenta=#944d95
+BoldRed=#f9555f
+BoldWhite=#bbbbbb
+BoldYellow=#fef02a
+Black=#555555
+Blue=#589df6
+Cyan=#3979bc
+Green=#35bb9a
+Magenta=#e75699
+Red=#fa8c8f
+White=#ffffff
+Yellow=#ffff55
+Yellow=#b5d5ff
+CursorColour=#bbbbbb

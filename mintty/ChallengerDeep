@@ -1,0 +1,23 @@
+# theme: ChallengerDeep
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#cbe1e7
+BackgroundColour=#1e1c31
+BoldBlack=#141228
+BoldBlue=#65b2ff
+BoldCyan=#63f2f1
+BoldGreen=#62d196
+BoldMagenta=#906cff
+BoldRed=#ff5458
+BoldWhite=#a6b3cc
+BoldYellow=#ffb378
+Black=#565575
+Blue=#91ddff
+Cyan=#aaffe4
+Green=#95ffa4
+Magenta=#c991e1
+Red=#ff8080
+White=#cbe3e7
+Yellow=#ffe9aa
+Yellow=#cbe1e7
+CursorColour=#fbfcfc

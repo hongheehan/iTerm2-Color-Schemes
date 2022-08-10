@@ -1,0 +1,23 @@
+# theme: Overnight Slumber
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ced2d6
+BackgroundColour=#0e1729
+BoldBlack=#0a1222
+BoldBlue=#8dabe1
+BoldCyan=#78ccf0
+BoldGreen=#85cc95
+BoldMagenta=#c792eb
+BoldRed=#ffa7c4
+BoldWhite=#ffffff
+BoldYellow=#ffcb8b
+Black=#575656
+Blue=#8dabe1
+Cyan=#ffa7c4
+Green=#85cc95
+Magenta=#c792eb
+Red=#ffa7c4
+White=#ffffff
+Yellow=#ffcb8b
+Yellow=#1f2b41
+CursorColour=#ffa7c4

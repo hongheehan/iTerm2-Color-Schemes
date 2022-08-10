@@ -1,0 +1,23 @@
+# theme: AtomOneLight
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#2a2c33
+BackgroundColour=#f9f9f9
+BoldBlack=#000000
+BoldBlue=#2f5af3
+BoldCyan=#3f953a
+BoldGreen=#3f953a
+BoldMagenta=#950095
+BoldRed=#de3e35
+BoldWhite=#bbbbbb
+BoldYellow=#d2b67c
+Black=#000000
+Blue=#2f5af3
+Cyan=#3f953a
+Green=#3f953a
+Magenta=#a00095
+Red=#de3e35
+White=#ffffff
+Yellow=#d2b67c
+Yellow=#ededed
+CursorColour=#bbbbbb

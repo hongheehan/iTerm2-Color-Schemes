@@ -1,0 +1,23 @@
+# theme: The Hulk
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b5b5b5
+BackgroundColour=#1b1d1e
+BoldBlack=#1b1d1e
+BoldBlue=#2525f5
+BoldCyan=#378ca9
+BoldGreen=#13ce30
+BoldMagenta=#641f74
+BoldRed=#269d1b
+BoldWhite=#d9d8d1
+BoldYellow=#63e457
+Black=#505354
+Blue=#506b95
+Cyan=#4085a6
+Green=#48ff77
+Magenta=#72589d
+Red=#8dff2a
+White=#e5e6e1
+Yellow=#3afe16
+Yellow=#4d504c
+CursorColour=#16b61b

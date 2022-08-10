@@ -1,0 +1,23 @@
+# theme: Wombat
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dedacf
+BackgroundColour=#171717
+BoldBlack=#000000
+BoldBlue=#5da9f6
+BoldCyan=#82fff7
+BoldGreen=#b1e969
+BoldMagenta=#e86aff
+BoldRed=#ff615a
+BoldWhite=#dedacf
+BoldYellow=#ebd99c
+Black=#313131
+Blue=#a5c7ff
+Cyan=#b7fff9
+Green=#ddf88f
+Magenta=#ddaaff
+Red=#f58c80
+White=#ffffff
+Yellow=#eee5b2
+Yellow=#453b39
+CursorColour=#bbbbbb

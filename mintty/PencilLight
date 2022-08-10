@@ -1,0 +1,23 @@
+# theme: PencilLight
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#424242
+BackgroundColour=#f1f1f1
+BoldBlack=#212121
+BoldBlue=#008ec4
+BoldCyan=#20a5ba
+BoldGreen=#10a778
+BoldMagenta=#523c79
+BoldRed=#c30771
+BoldWhite=#d9d9d9
+BoldYellow=#a89c14
+Black=#424242
+Blue=#20bbfc
+Cyan=#4fb8cc
+Green=#5fd7af
+Magenta=#6855de
+Red=#fb007a
+White=#f1f1f1
+Yellow=#f3e430
+Yellow=#b6d6fd
+CursorColour=#20bbfc

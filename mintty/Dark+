@@ -1,0 +1,23 @@
+# theme: Dark+
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#cccccc
+BackgroundColour=#1e1e1e
+BoldBlack=#000000
+BoldBlue=#2472c8
+BoldCyan=#11a8cd
+BoldGreen=#0dbc79
+BoldMagenta=#bc3fbc
+BoldRed=#cd3131
+BoldWhite=#e5e5e5
+BoldYellow=#e5e510
+Black=#666666
+Blue=#3b8eea
+Cyan=#29b8db
+Green=#23d18b
+Magenta=#d670d6
+Red=#f14c4c
+White=#e5e5e5
+Yellow=#f5f543
+Yellow=#3a3d41
+CursorColour=#ffffff

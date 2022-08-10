@@ -1,0 +1,23 @@
+# theme: lovelace
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#fdfdfd
+BackgroundColour=#1d1f28
+BoldBlack=#282a36
+BoldBlue=#8897f4
+BoldCyan=#79e6f3
+BoldGreen=#5adecd
+BoldMagenta=#c574dd
+BoldRed=#f37f97
+BoldWhite=#fdfdfd
+BoldYellow=#f2a272
+Black=#414458
+Blue=#556fff
+Cyan=#3fdcee
+Green=#18e3c8
+Magenta=#b043d1
+Red=#ff4971
+White=#bebec1
+Yellow=#ff8037
+Yellow=#c1deff
+CursorColour=#c574dd

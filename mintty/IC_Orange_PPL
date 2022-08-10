@@ -1,0 +1,23 @@
+# theme: IC_Orange_PPL
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffcb83
+BackgroundColour=#262626
+BoldBlack=#000000
+BoldBlue=#bd6d00
+BoldCyan=#f79500
+BoldGreen=#a4a900
+BoldMagenta=#fc5e00
+BoldRed=#c13900
+BoldWhite=#ffc88a
+BoldYellow=#caaf00
+Black=#6a4f2a
+Blue=#ffbe55
+Cyan=#c69752
+Green=#f6ff40
+Magenta=#fc874f
+Red=#ff8c68
+White=#fafaff
+Yellow=#ffe36e
+Yellow=#c14020
+CursorColour=#fc531d

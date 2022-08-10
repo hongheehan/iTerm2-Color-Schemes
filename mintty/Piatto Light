@@ -1,0 +1,23 @@
+# theme: Piatto Light
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#414141
+BackgroundColour=#ffffff
+BoldBlack=#414141
+BoldBlue=#3c5ea8
+BoldCyan=#66781e
+BoldGreen=#66781e
+BoldMagenta=#a454b2
+BoldRed=#b23771
+BoldWhite=#ffffff
+BoldYellow=#cd6f34
+Black=#3f3f3f
+Blue=#3c5ea8
+Cyan=#829429
+Green=#829429
+Magenta=#a454b2
+Red=#db3365
+White=#f2f2f2
+Yellow=#cd6f34
+Yellow=#706b4e
+CursorColour=#5e77c8

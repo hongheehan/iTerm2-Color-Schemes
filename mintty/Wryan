@@ -1,0 +1,23 @@
+# theme: Wryan
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#999993
+BackgroundColour=#101010
+BoldBlack=#333333
+BoldBlue=#395573
+BoldCyan=#31658c
+BoldGreen=#287373
+BoldMagenta=#5e468c
+BoldRed=#8c4665
+BoldWhite=#899ca1
+BoldYellow=#7c7c99
+Black=#3d3d3d
+Blue=#477ab3
+Cyan=#6096bf
+Green=#53a6a6
+Magenta=#7e62b3
+Red=#bf4d80
+White=#c0c0c0
+Yellow=#9e9ecb
+Yellow=#4d4d4d
+CursorColour=#9e9ecb

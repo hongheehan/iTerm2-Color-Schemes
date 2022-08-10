@@ -1,0 +1,23 @@
+# theme: coffee_theme
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#000000
+BackgroundColour=#f5deb3
+BoldBlack=#000000
+BoldBlue=#0225c7
+BoldCyan=#00c5c7
+BoldGreen=#00c200
+BoldMagenta=#ca30c7
+BoldRed=#c91b00
+BoldWhite=#c7c7c7
+BoldYellow=#c7c400
+Black=#686868
+Blue=#6871ff
+Cyan=#60fdff
+Green=#5ffa68
+Magenta=#ff77ff
+Red=#ff6e67
+White=#ffffff
+Yellow=#fffc67
+Yellow=#c1deff
+CursorColour=#c7c7c7

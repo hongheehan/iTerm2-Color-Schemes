@@ -1,0 +1,23 @@
+# theme: Elemental
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#807a74
+BackgroundColour=#22211d
+BoldBlack=#3c3c30
+BoldBlue=#497f7d
+BoldCyan=#387f58
+BoldGreen=#479a43
+BoldMagenta=#7f4e2f
+BoldRed=#98290f
+BoldWhite=#807974
+BoldYellow=#7f7111
+Black=#555445
+Blue=#79d9d9
+Cyan=#59d599
+Green=#61e070
+Magenta=#cd7c54
+Red=#e0502a
+White=#fff1e9
+Yellow=#d69927
+Yellow=#413829
+CursorColour=#facb80

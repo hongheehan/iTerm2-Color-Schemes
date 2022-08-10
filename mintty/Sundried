@@ -1,0 +1,23 @@
+# theme: Sundried
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c9c9c9
+BackgroundColour=#1a1818
+BoldBlack=#302b2a
+BoldBlue=#485b98
+BoldCyan=#9c814f
+BoldGreen=#587744
+BoldMagenta=#864651
+BoldRed=#a7463d
+BoldWhite=#c9c9c9
+BoldYellow=#9d602a
+Black=#4d4e48
+Blue=#7999f7
+Cyan=#fad484
+Green=#128c21
+Magenta=#fd8aa1
+Red=#aa000c
+White=#ffffff
+Yellow=#fc6a21
+Yellow=#302b2a
+CursorColour=#ffffff

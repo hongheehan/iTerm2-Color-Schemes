@@ -1,0 +1,23 @@
+# theme: Hybrid
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#b7bcba
+BackgroundColour=#161719
+BoldBlack=#2a2e33
+BoldBlue=#6e90b0
+BoldCyan=#7fbfb4
+BoldGreen=#b3bf5a
+BoldMagenta=#a17eac
+BoldRed=#b84d51
+BoldWhite=#b5b9b6
+BoldYellow=#e4b55e
+Black=#1d1f22
+Blue=#4b6b88
+Cyan=#4d7b74
+Green=#798431
+Magenta=#6e5079
+Red=#8d2e32
+White=#5a626a
+Yellow=#e58a50
+Yellow=#1e1f22
+CursorColour=#b7bcba

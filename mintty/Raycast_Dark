@@ -1,0 +1,23 @@
+# theme: Raycast_Dark
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#1a1a1a
+BoldBlack=#000000
+BoldBlue=#56c2ff
+BoldCyan=#52eee5
+BoldGreen=#59d499
+BoldMagenta=#cf2f98
+BoldRed=#ff5360
+BoldWhite=#ffffff
+BoldYellow=#ffc531
+Black=#000000
+Blue=#56c2ff
+Cyan=#52eee5
+Green=#59d499
+Magenta=#cf2f98
+Red=#ff6363
+White=#ffffff
+Yellow=#ffc531
+Yellow=#333333
+CursorColour=#cccccc

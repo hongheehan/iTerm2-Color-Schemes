@@ -1,0 +1,23 @@
+# theme: Glacier
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#0c1115
+BoldBlack=#2e343c
+BoldBlue=#1f5872
+BoldCyan=#778397
+BoldGreen=#35a770
+BoldMagenta=#bd2523
+BoldRed=#bd0f2f
+BoldWhite=#ffffff
+BoldYellow=#fb9435
+Black=#404a55
+Blue=#2a8bc1
+Cyan=#a0b6d3
+Green=#49e998
+Magenta=#ea4727
+Red=#bd0f2f
+White=#ffffff
+Yellow=#fddf6e
+Yellow=#bd2523
+CursorColour=#6c6c6c

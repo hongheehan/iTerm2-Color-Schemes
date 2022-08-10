@@ -1,0 +1,23 @@
+# theme: Argonaut
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#fffaf4
+BackgroundColour=#0e1019
+BoldBlack=#232323
+BoldBlue=#008df8
+BoldCyan=#00d8eb
+BoldGreen=#8ce10b
+BoldMagenta=#6d43a6
+BoldRed=#ff000f
+BoldWhite=#ffffff
+BoldYellow=#ffb900
+Black=#444444
+Blue=#0092ff
+Cyan=#67fff0
+Green=#abe15b
+Magenta=#9a5feb
+Red=#ff2740
+White=#ffffff
+Yellow=#ffd242
+Yellow=#002a3b
+CursorColour=#ff0018

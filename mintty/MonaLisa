@@ -1,0 +1,23 @@
+# theme: MonaLisa
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f7d66a
+BackgroundColour=#120b0d
+BoldBlack=#351b0e
+BoldBlue=#515c5d
+BoldCyan=#588056
+BoldGreen=#636232
+BoldMagenta=#9b1d29
+BoldRed=#9b291c
+BoldWhite=#f7d75c
+BoldYellow=#c36e28
+Black=#874228
+Blue=#9eb2b4
+Cyan=#8acd8f
+Green=#b4b264
+Magenta=#ff5b6a
+Red=#ff4331
+White=#ffe598
+Yellow=#ff9566
+Yellow=#f7d66a
+CursorColour=#c46c32

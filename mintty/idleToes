@@ -1,0 +1,23 @@
+# theme: idleToes
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#323232
+BoldBlack=#323232
+BoldBlue=#4099ff
+BoldCyan=#bed6ff
+BoldGreen=#7fe173
+BoldMagenta=#f680ff
+BoldRed=#d25252
+BoldWhite=#eeeeec
+BoldYellow=#ffc66d
+Black=#535353
+Blue=#5eb7f7
+Cyan=#dcf4ff
+Green=#9dff91
+Magenta=#ff9dff
+Red=#f07070
+White=#ffffff
+Yellow=#ffe48b
+Yellow=#5b5b5b
+CursorColour=#d6d6d6

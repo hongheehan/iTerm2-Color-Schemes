@@ -1,0 +1,23 @@
+# theme: Nocturnal Winter
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e6e5e5
+BackgroundColour=#0d0d17
+BoldBlack=#4d4d4d
+BoldBlue=#3182e0
+BoldCyan=#09c87a
+BoldGreen=#09cd7e
+BoldMagenta=#ff2b6d
+BoldRed=#f12d52
+BoldWhite=#fcfcfc
+BoldYellow=#f5f17a
+Black=#808080
+Blue=#6096ff
+Cyan=#0ae78d
+Green=#0ae78d
+Magenta=#ff78a2
+Red=#f16d86
+White=#ffffff
+Yellow=#fffc67
+Yellow=#adbdd0
+CursorColour=#e6e5e5

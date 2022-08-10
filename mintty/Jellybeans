@@ -1,0 +1,23 @@
+# theme: Jellybeans
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#dedede
+BackgroundColour=#121212
+BoldBlack=#929292
+BoldBlue=#97bedc
+BoldCyan=#00988e
+BoldGreen=#94b979
+BoldMagenta=#e1c0fa
+BoldRed=#e27373
+BoldWhite=#dedede
+BoldYellow=#ffba7b
+Black=#bdbdbd
+Blue=#b1d8f6
+Cyan=#1ab2a8
+Green=#bddeab
+Magenta=#fbdaff
+Red=#ffa1a1
+White=#ffffff
+Yellow=#ffdca0
+Yellow=#474e91
+CursorColour=#ffa560

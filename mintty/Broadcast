@@ -1,0 +1,23 @@
+# theme: Broadcast
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#e6e1dc
+BackgroundColour=#2b2b2b
+BoldBlack=#000000
+BoldBlue=#6d9cbe
+BoldCyan=#6e9cbe
+BoldGreen=#519f50
+BoldMagenta=#d0d0ff
+BoldRed=#da4939
+BoldWhite=#ffffff
+BoldYellow=#ffd24a
+Black=#323232
+Blue=#9fcef0
+Cyan=#a0cef0
+Green=#83d182
+Magenta=#ffffff
+Red=#ff7b6b
+White=#ffffff
+Yellow=#ffff7c
+Yellow=#5a647e
+CursorColour=#ffffff

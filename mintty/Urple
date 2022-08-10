@@ -1,0 +1,23 @@
+# theme: Urple
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#877a9b
+BackgroundColour=#1b1b23
+BoldBlack=#000000
+BoldBlue=#564d9b
+BoldCyan=#808080
+BoldGreen=#37a415
+BoldMagenta=#6c3ca1
+BoldRed=#b0425b
+BoldWhite=#87799c
+BoldYellow=#ad5c42
+Black=#5d3225
+Blue=#867aed
+Cyan=#eaeaea
+Green=#29e620
+Magenta=#a05eee
+Red=#ff6388
+White=#bfa3ff
+Yellow=#f08161
+Yellow=#a063eb
+CursorColour=#a063eb

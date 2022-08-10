@@ -1,0 +1,23 @@
+# theme: Hacktober
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#c9c9c9
+BackgroundColour=#141414
+BoldBlack=#191918
+BoldBlue=#206ec5
+BoldCyan=#ac9166
+BoldGreen=#587744
+BoldMagenta=#864651
+BoldRed=#b34538
+BoldWhite=#f1eee7
+BoldYellow=#d08949
+Black=#2c2b2a
+Blue=#5389c5
+Cyan=#ebc587
+Green=#42824a
+Magenta=#e795a5
+Red=#b33323
+White=#ffffff
+Yellow=#c75a22
+Yellow=#141414
+CursorColour=#c9c9c9

@@ -1,0 +1,23 @@
+# theme: Symfonic
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#ffffff
+BackgroundColour=#000000
+BoldBlack=#000000
+BoldBlue=#0084d4
+BoldCyan=#ccccff
+BoldGreen=#56db3a
+BoldMagenta=#b729d9
+BoldRed=#dc322f
+BoldWhite=#ffffff
+BoldYellow=#ff8400
+Black=#1b1d21
+Blue=#0084d4
+Cyan=#ccccff
+Green=#56db3a
+Magenta=#b729d9
+Red=#dc322f
+White=#ffffff
+Yellow=#ff8400
+Yellow=#073642
+CursorColour=#dc322f

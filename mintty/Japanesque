@@ -1,0 +1,23 @@
+# theme: Japanesque
+# source: https://github.com/hongheehan/iTerm2-Color-Schemes
+
+ForegroundColour=#f7f6ec
+BackgroundColour=#1e1e1e
+BoldBlack=#343935
+BoldBlue=#4c9ad4
+BoldCyan=#389aad
+BoldGreen=#7bb75b
+BoldMagenta=#a57fc4
+BoldRed=#cf3f61
+BoldWhite=#fafaf6
+BoldYellow=#e9b32a
+Black=#595b59
+Blue=#135979
+Cyan=#76bbca
+Green=#767f2c
+Magenta=#604291
+Red=#d18fa6
+White=#b2b5ae
+Yellow=#78592f
+Yellow=#175877
+CursorColour=#edcf4f
